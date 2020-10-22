@@ -1,3 +1,8 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "fr"
 title = "My New Hugo Site"
+theme = "ananke"
+DefaultContentLanguage = "fr"
+
+[params]
+  twitter = "https://twitter.com/nils_back"
