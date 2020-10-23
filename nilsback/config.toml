@@ -6,6 +6,9 @@ DefaultContentLanguage = "fr"
 
 [params]
   twitter = "https://twitter.com/nils_back"
+  linkedin = "https://www.linkedin.com/in/nilslesieur/"
+  description = "The last theme you'll ever need. Maybe."
+  body_classes = "avenir bg-near-white"
 
  [Permalinks]
   posts = "posts/:year/:month/:title"
