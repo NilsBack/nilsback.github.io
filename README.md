@@ -1,2 +1,2 @@
 # nilsback.github.io
-My Jekyll blog
+My Hugo blog
