@@ -5,7 +5,7 @@ draft: true
 tags: ["conférence","product", "product ownership"]
 ---
 
-## School of Product Ownership — Outdoor Edition 2020
+# School of Product Ownership — Outdoor Edition 2020
 
 La School of Product Ownership 2020 cela devait être une journée de talks avec des speakers reconnus dans un lieu clos dans le centre chic de Paris.
 
@@ -13,7 +13,7 @@ Et puis le COVID et son lot d’imprévus , de contraintes qui changent tous les
 
 > *22 septembre, les surprises vont se succéder*
 
-### Le matin
+## Le matin
 
 Le rendez-vous est donné au cimetière du Père Lachaise, les participants s’organisent en groupe de 10–12 personnes. Armés de Quiz au format A4, chaque groupe va déambuler jusqu’à la Cité Fertile à Pantin. Les groupes échange sur les buts d’ateliers produit, les différence entre MVP et prototype, les redevabilités du PO et du PM. Parfois, c’est croyance contre croyance, parfois personne ne sait, parfois un sachant partage, répond aux questions. C’est enrichissant, intéressant, inattendu. Tout le monde joue le jeu. De nouveaux quizz surgissent des poches des organisateurs, les duos, trios se défont, d’autres de reforment. Les cartes quizz s’échangent comme des images Panini.
 
@@ -21,7 +21,7 @@ Et pendant ce temps, les paysages parisiens défilent : Les Buttes Chaumont et s
 
 ![Le quizz du matin](Quizz.jpeg)
 
-### Arrivée à la Cité Fertile et début des talks
+## Arrivée à la Cité Fertile et début des talks
 
 Ca sent le calme, le zen. Le soleil omniprésent et le ciel tout bleu donne des airs de vacances à ce lieu très aéré. Agréable. Incroyable. Le repas du midi est prospice aux récits des “exploits” du matin à des amis que l’on ne voit qu’en conférence, à des collègues.
 
@@ -31,7 +31,7 @@ Le Keynote de John Cutler (en remote) est retransmise en plein air ou sous un po
 
 ![Les sessions](Sessions.jpeg)
 
-### Fin de journée
+## Fin de journée
 
 Aurore, notre game designer chez benext, nous a concocté une soirée dont elle a le secret. Quelques artistes déambulent avec ou sans échasses, divertisent les participants au gré de leurs acrobaties et de jonglages.
 
@@ -39,7 +39,7 @@ Le stress des organisateurs retombent, plusieurs profitent, “refont le match�
 
 ![La belle soirée](Outdoor.jpeg)
 
-### Un beau renouveau
+## Un beau renouveau
 
 On dit ou entend parfois “tout est produit”. La School of Product Ownership 2020 n’y échappe, elle parle de Produit mais est aussi un Produit.
 
