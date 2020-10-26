@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "fr"
-title = "Le lab de Nils"
+title = "Nils's kitchen"
 theme = "ananke"
 DefaultContentLanguage = "fr"
 
@@ -8,7 +8,16 @@ DefaultContentLanguage = "fr"
   twitter = "https://twitter.com/nils_back"
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
   description = "The last theme you'll ever need. Maybe."
+  
   body_classes = "avenir bg-near-white"
+  post_content_classes = "avenir"
+  background_color_class = "bg-black"
+  
+  show_reading_time = true
+  recent_post_number = 3
+
+[menu]
+ 
 
  [Permalinks]
-  posts = "posts/:year/:month/:title"
+  posts = ":year/:month/:title"
