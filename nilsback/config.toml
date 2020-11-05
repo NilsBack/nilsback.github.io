@@ -3,21 +3,19 @@ languageCode = "fr"
 title = "Nils's kitchen"
 theme = "ananke"
 DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
 
 [params]
   twitter = "https://twitter.com/nils_back"
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
-  description = "The last theme you'll ever need. Maybe."
+  description = "bla bla"
   
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir"
   background_color_class = "bg-black"
   
   show_reading_time = true
-  recent_post_number = 3
+  recent_post_number = 2 
 
-[menu]
- 
-
- [Permalinks]
-  posts = ":year/:month/:title"
+[Permalinks]
+  post = "/:year/:month/:title"
