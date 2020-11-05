@@ -1,7 +1,7 @@
 ---
 title: "OKR et la mesure de l'impact"
 date: 2020-10-23T18:59:04+02:00
-draft: false
+draft: true
 tags: ["OKR", "impact", "mesure"]
 toc: true
 ---
