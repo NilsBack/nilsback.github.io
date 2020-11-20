@@ -1,6 +1,6 @@
 ---
 title: "Lancement"
-date: 2020-10-22T18:59:04+02:00
+date: 2020-11-20T15:59:04+02:00
 draft: false
 tags: ["Lancement"]
 toc: true
