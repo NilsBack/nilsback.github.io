@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://nilslesieur.fr/"
 languageCode = "fr"
 title = "Nils's kitchen"
 theme = "ananke"
@@ -8,7 +8,7 @@ SectionPagesMenu = "main"
 [params]
   twitter = "https://twitter.com/nils_back"
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
-  description = "bla bla"
+  description = ""
   
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir"
