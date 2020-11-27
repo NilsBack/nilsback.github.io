@@ -16,7 +16,7 @@ Une discussion entre mon père, son passé professionnel et moi.
 [Lire l'article](https://medium.com/@nils.lesieur/discussion-de-groupe-et-de-groupe-en-famille-dc247a1af364)
     
 **Quelques notes sur Agile Fluency**  
-Des notes sur Agile Fluency issues de ce [pdf]() pour préparer un meetup.  
+Des notes sur Agile Fluency issues du [pdf](https://www.agilefluency.org/blog/2020-06-01-guest-post-lebook-agile-fluency-en-francais) pour préparer un meetup.  
 [Lire l'article](https://medium.com/benextcompany/quelques-notes-sur-agile-fluency-1af822cc3ab7)
   
 
