@@ -13,8 +13,8 @@ Chez benext, nous avons mis en place, il y a un peu plus d'un an, le mentoring. 
 
 ## Pourquoi ?
 Alors, pourquoi lancer une nouvelle initiative ?
-Les becoms, journées de partage avec tous les benexters, n'étaient plus assez focalisés sur la recherche d'excellence, il semblait aussi que certains basiques des rôles n'étaient pas maîtrisés. Les espaces que le mentoring allait créer devait apporter de la connaissance, de la maîtrise, l'expertise d'un coach.
-Nous ne savions pas ce que cela alait donné, si cela était une bonne idée. Le lancement était clairement sous le signe du test, de l'expérimentation.
+Les becoms, journées de partage avec tous les benexters, n'étaient plus assez focalisés sur la recherche d'excellence, il semblait aussi que certains basiques des rôles n'étaient pas maîtrisés. Les espaces que le mentoring allait créer devaient apporter de la connaissance, de la maîtrise, l'expertise d'un coach.
+Nous ne savions pas ce que cela allait donner, si cela était une bonne idée. Le lancement était clairement sous le signe du test, de l'expérimentation.
 
 ## Comment ?
 Nous avons choisi de créer des groupes animés par un coach ou un duo et composés de 5 à 6 personnes occupant les rôles de product owner, de scrum master, de product designer ou de product manager. Ca c'était le début, le lancement. Nous n'avions mis aucune règle pour l'animation : chaque groupe s'est donc organisé comme il le souhaitait. Il n'y avait pas non plus de date de fin, nous savions que nous partions pour 3 mois au moins.
