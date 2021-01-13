@@ -42,7 +42,7 @@ Pour la troisième saison (pas débutée à l'heure de l'écriture de ces lignes
 ## Des attentes
 Demander ce qu'attendent du groupe les personnes présentes dans le groupe me paraît évident. En fonction des réponses de chacun, des valeurs communes apparaissent, d'autres n'apparaissent qu'une seule fois. Je complète le thème de la chaîne Slack en fonction, il vit au fil des réponses. Le premier était *"0 tabou, confidentialité, sécurité, partage."*, le deuxième *"V0.3 : Espace “sécurisé” pour échanger nos problématiques, nos questions, des recommandations/solutions (intervision ?), des articles/podcasts, du soutien, un espace pour grandir ensemble, puiser de l’énergie, de l’inspiration et digresser librement."*
 De mon côté, mes attentes dans l'expérience de mentoring en groupe évoluent, en plus de ces notions, j'attends du groupe qu'il amène des sujets dans cet espace sécurisé et confidentiel, qu'il l'alimente en matière. J'attends aussi que le groupe prenne la main sur la façon de s'organiser, qu'il n'attende plus que je fasse. Ca me demande aussi de ne pas toujours prendre la main (ce qui n'est pas toujours facile pour moi :) ).
-Lors de la première saison, j'avais demandé aux personnes de compléter une fiche que j'avais piqué à [Pablo Pernot](https://pablopernot.fr/) avec des questions comme :  
+Lors de la première saison, j'avais demandé aux personnes de compléter une fiche que j'avais piquée à [Pablo Pernot](https://pablopernot.fr/) avec des questions comme :  
 - *Je suis ?*  
 - *Qui est mon client ?*  
 - *Dans 6 mois mon client aurait le sourire si... ?*  
