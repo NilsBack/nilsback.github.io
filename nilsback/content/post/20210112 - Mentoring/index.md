@@ -1,6 +1,6 @@
 ---
 title: "Une histoire de mentoring de groupe"
-date: 2021-01-12T15:59:04+02:00
+date: 2021-01-13T12:04:04+02:00
 draft: false
 tags: ["mentoring"]
 ---
