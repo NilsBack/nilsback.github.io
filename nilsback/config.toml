@@ -13,6 +13,7 @@ SectionPagesMenu = "main"
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir"
   background_color_class = "bg-black"
+  featured_image = "/images/Paris_BordsDeSeine.jpg"
   
   show_reading_time = true
   recent_post_number = 2 
