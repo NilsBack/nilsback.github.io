@@ -1,7 +1,7 @@
 baseURL = "http://nilslesieur.fr/"
 languageCode = "fr"
 title = "nilslesieur.fr"
-copyright = "Cette œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution </br> Pas d’utilisation commerciale - Partage dans les mêmes conditions 4.0 International"
+copyright = "Cette œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution. </br> Pas d’utilisation commerciale - Partage dans les mêmes conditions 4.0 International"
 theme = "ananke"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
