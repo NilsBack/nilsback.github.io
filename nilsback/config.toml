@@ -6,7 +6,6 @@ theme = "ananke"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
-canonifyURLs = true
 
 [params]
   twitter = "https://twitter.com/nils_back"
