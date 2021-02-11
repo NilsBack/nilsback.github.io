@@ -1,6 +1,6 @@
 ---
 title: "Nils' kitchen"
-description: ""
+description: "Notes et partage de mon quotidien de coach agile"
 ---
 
 
