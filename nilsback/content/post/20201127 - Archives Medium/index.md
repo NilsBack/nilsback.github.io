@@ -8,7 +8,7 @@ tags: ["archives", "school of po", "agile fluency", "backlog", "formation"]
 # Mes publications Medium
 
 **Une conf’ Product pas comme les autres**  
-Récit de la journée de School of Procduct Ownership 2020 du quiz matinal à la soirée outdoor en passant par les sessions de l'après-midi.  
+Récit de la journée de School of Procduct Ownership 2020 du quizz matinal à la soirée outdoor en passant par les sessions de l'après-midi.  
 [Lire l'article](https://medium.com/benextcompany/une-conf-product-pas-comme-les-autres-cb1e57af8b78)
   
 **Discussion de groupe et de Groupe en famille**  
