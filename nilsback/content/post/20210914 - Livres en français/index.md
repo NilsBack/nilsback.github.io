@@ -3,7 +3,6 @@ title: "Des 'classiques' de l'agile en français"
 date: 2021-09-14T17:10:04+02:00
 draft: false
 author : Nils
-featured_image: '/images/LivresEnFrançais.jpeg'
 tags: ["livres", "francophonie"]
 ---
 
