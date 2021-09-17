@@ -3,6 +3,7 @@ title: "Des 'classiques' de l'agile en français"
 date: 2021-09-14T17:10:04+02:00
 draft: false
 author : Nils
+featured_image: '/images/LivresEnFrancais.jpeg'
 tags: ["livres", "francophonie"]
 ---
 
@@ -11,7 +12,7 @@ En lisant en anglais, j'ai parfois la sensation de mal comprendre des passages, 
 
 Bref, voici quelques unes de mes découvertes de ces derniers mois.
 
-![Quelques classiques agiles en français](/images/LivresEnFrançais.jpeg "Quelques classiques agiles en français")  
+![Quelques classiques agiles en français](/images/LivresEnFrancais.jpeg "Quelques classiques agiles en français")  
 
 # Turn the ship around - L. David Marquet
 Titre français : [Renversez la vapeur](https://umd.ca/boutique/renversez-la-vapeur/) - Traduction Jocelyne Roy  
