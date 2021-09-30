@@ -8,7 +8,7 @@ tags: ["conférence","product", "product ownership"]
 ---
 
 # Hall d'embarquement
-![Hall d embarquement](HallDEmbarquement.JPG "Hall d embarquement")  
+![Hall d embarquement](HallDEmbarquementLow.jpg "Hall d embarquement")  
 
 21 Septembre 2021, il est à peine 8h, [Dragos](https://www.linkedin.com/in/dragosdreptate/) est déjà sur place, j'arrive avec [Tiphanie](https://www.linkedin.com/in/tiphanie-vinet-a7856143/) et [Souki](https://www.linkedin.com/in/souki-khamsyvoravong-b39a4a90/). Je découvre les lieux, le soleil est notre plus bel hôte, il nous attend sur les terrasses du Pavillon Chesnaie du Roy, dans le bois de Vincennes, avec le thé, le café. Les premiers benexters arrivent, tout ce petit monde, telles des fourmis, s'activent, ajustent les derniers réglages pour tenir le stand de remise de badges, pour installer les stands partenaires... Tout le monde prend ses marques, l'énergie, l'excitation monte, il y a des sourires partout. De la concentration aussi.
 Les premiers participants arrivent, parmi eux des amis, des anciens clients, des anciens collègues...  
@@ -25,7 +25,7 @@ Vous pouvez retrouver ses slides [ici](https://fr.slideshare.net/ThomasPierrain/
 Je passe voir [Jo](https://www.linkedin.com/in/jlitty/). La salle comble ! Le public semble conquis. Tellement content pour lui. En attendant les replays, vous pouvez retrouver sa session sur [ce fil twitter](https://twitter.com/SchoolOfPO/status/1440217880340041731).
 
 ## 10:45
-![Luc Julia on stage](LucJulia.JPG "Luc Julia on stage")  
+![Luc Julia on stage](LucJuliaLow.jpg "Luc Julia on stage")  
 Pour mon deuxième "mulitplex", le choix de la session fil rouge est plus compliqué : Luc Julia et l'intelligence artificielle ou [Hervé Lourdin](https://www.linkedin.com/in/hervelourdin/) et le *scaling* chez leboncoin. Je ne choisis pas, j'alterne entre ces sessions dont j'attends impatiemment les *replays*.  
 Comme Thomas auparavant, [Luc Julia](https://www.linkedin.com/in/lucjulia/), que j'imagine sortant d'une plage de L.A. avec sa chemise à fleurs, présente simplement d'un sujet qui ne me le semble pas. Son storytelling m'embarque, il y a des histoires comme celle de du pourquoi l'*intelligence artificielle* s'appelle ainsi ou celle la [Pascaline](https://fr.wikipedia.org/wiki/Pascaline) dont j'apprends l'existence. Une calculette en 1642!  
 Bref, à revoir.  
@@ -62,7 +62,7 @@ Linda nous conseille notamment de ne pas gaspiller d'énergie sur des sujets inu
 Le [fil twitter](https://twitter.com/SchoolOfPO/status/1440319320362422283) de sa session par le compte SchoolOfProduct.
 
 # Alunissage
-![Jeff Patton on stage](JeffPatton.JPG "Jeff Patton on stage")  
+![Jeff Patton on stage](JeffPattonLow.jpg "Jeff Patton on stage")  
 
 Jeff Patton ! Quelle keynote ! En deux dessins et une slide, il résume, vulgarise, conceptualise tellement de concepts. Inspirant !  
 Je repars aussi avec ceci :  
@@ -79,3 +79,5 @@ Mille mercis à l'équipe d'orga (Dragos, [Marion](https://www.linkedin.com/in/m
 Fin de journée avec l'apéritif, des séances photomaton... Have fun !  
 
 ![Photomaton](Photomaton.jpeg "Photomaton")  
+
+*Crédits Photo : Nils Lesieur, Ta bobine*
