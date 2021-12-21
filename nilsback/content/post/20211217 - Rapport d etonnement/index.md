@@ -55,7 +55,7 @@ Quelques questions que nous nous sommes posées :
 
 
 Nous avons tout d'abord choisi une histoire en 3 temps, sans préciser de dates ;-). Trois temps que le storytelling ordonne séquentiellement, dans la vraie vie il en sera tout autrement. Nous avons tenu à leur exprimer notre vision de chaque temps, des visions comme des titres de chapitre de l'histoire. Un titre c'est court, le choix des mots a été l'objet de nombreux essais.  
-Nous avons par exemple rejeter le mot "harmoniser" pour la deuxième étape, qui donnait l'impression de vouloir faire le même "agile" dans toutes les équipes et avons préféré "stabiliser" qui traduit mieux ce que nous voulions exprimer.
+Nous avons par exemple rejeté le mot "harmoniser" pour la deuxième étape, qui donnait l'impression de vouloir faire le même "agile" dans toutes les équipes et avons préféré "stabiliser" qui traduit mieux ce que nous voulions exprimer.
 La volonté de raconter une histoire, d'avoir des titres courts, d'exprimer notre vision, a fait ressortir une cohérence et une dynamique dans ce que nous voulions proposer.
 
 Exprimer la vision n'était à notre avis pas suffisant, pas suffisant de projeter les personnes vers un futur proche ou non. Il nous semblait important de détailler avec des activités, pas avec des actions concrètes, mais bien des activités. Une activité c'est par exemple : mentorer tel rôle, standardiser tels rituels, mettre en place des cycles d'amélioration continue.
@@ -77,5 +77,5 @@ Nous verrons.
 
 # La prochaine fois ?
 
-La prochaine fois, je referai le rapport d'étonnement, je serai sans doute plus vigilant au comment les personnes perçoivent, interpètent le mot "étonnements". Je referai l'exercice de résumé même si il est imparfait.
+La prochaine fois, je referai le rapport d'étonnement, je serai sans doute plus vigilant au comment les personnes perçoivent, interpètent le mot "étonnements". Je referai l'exercice de résumé même s'il est imparfait.
 
