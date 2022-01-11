@@ -2,6 +2,7 @@
 title: "Les grilles de lecture 2/5 : Cynefin. Les contextes."
 date: 2022-01-11T14:35:04+02:00
 draft: false
+featured_image: '/images/Cynefin_Desordre.jpg'
 author : Emeline Boulet & Nils
 tags: ["grille de lecture", "modèle", "cynefin"]
 ---
