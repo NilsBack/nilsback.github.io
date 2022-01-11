@@ -1,5 +1,5 @@
 ---
-title: "Les grilles de lecture 1/5 : Intro"
+title: "Les grilles de lecture 1/7 : Intro"
 date: 2022-01-11T14:30:04+02:00
 draft: false
 author : Alice Novazzi, Emeline Boulet, Gabrielle Le Bihan & Nils
@@ -47,7 +47,7 @@ Ces cartes sont des représentations, des propositions de lectures de situations
 
 Nous commençons mais voilà ce que nous avons en tête quand nous parlons de modèles, de grilles de lectures :  
 
-- Cynefin (les [contextes](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-2/5-cynefin.-les-contextes./) et les dynamiques) 
+- Cynefin (les [contextes](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-2/7-cynefin.-les-contextes./) et les dynamiques) 
 - La pyramide de Dilts  
 - La spirale dynamique 
 - Le Process Communication Model ou PCM   
