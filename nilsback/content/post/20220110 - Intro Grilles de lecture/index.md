@@ -47,7 +47,7 @@ Ces cartes sont des représentations, des propositions de lectures de situations
 
 Nous commençons mais voilà ce que nous avons en tête quand nous parlons de modèles, de grilles de lectures :  
 
-- Cynefin  
+- Cynefin (les [contextes](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-2/5-cynefin.-les-contextes./) et les dynamiques) 
 - La pyramide de Dilts  
 - La spirale dynamique 
 - Le Process Communication Model ou PCM   
