@@ -18,7 +18,7 @@ La pyramide se divise en 6 niveaux logiques de pensée, hiérarchisés : en bas 
 
 Nous utilisons cette grille de lecture pour résoudre des problématiques, pour avoir une vue plus globale et systémique d’une situation et pour prendre du recul. Elle peut être utilisée pour un collectif (votre équipe, votre association, votre entreprise,...) ou à un niveau plus individuel (pour vous ou la personne que vous accompagnez).
 
-*J’apprends en faisant ma recherche bibliographique que la pyramide de Dilts est un outil provenant de la Programmation Neuro Linguistique (PNL) : je me retrouve tel Monsieur Jourdain à utiliser des outils de PNL alors je pensais ne pas savoir ce que c’était.*
+*J’apprends en faisant ma recherche bibliographique que la pyramide de Dilts est un outil provenant de la Programmation Neuro Linguistique (PNL) : je me retrouve tel Monsieur Jourdain à utiliser des outils de PNL alors que je pensais ne pas savoir ce que c’était.*
 
 Nous détaillons plus loin les 6 niveaux logiques, mais chacun d’entre eux peut rapidement être présenté par une question :  
 
@@ -71,7 +71,7 @@ C’est souvent le niveau logique où sont visibles les problèmes liés aux niv
 
 Au sein de votre équipe, de votre entreprise, de votre client, ce sont par exemple la ponctualité des personnes, la posture des managers, les pratiques de développement informatique, …
 
-D’un point de vue individuel, cela pourrait par exemple un enfant qui fait des fautes à l’écrit, qui écrit “comme ça se prononce”, ou encore les développeurs qui livreraient du code non testé. 
+D’un point de vue individuel, cela pourrait être par exemple un enfant qui fait des fautes à l’écrit, qui écrit “comme ça se prononce”, ou encore les développeurs qui livreraient du code non testé. 
 
 ## Capacités
 
