@@ -69,7 +69,7 @@ Les contextes Complexe et Chaotique sont des contextes désordonnés. La prédic
 
 “Est-ce qu’il y a une réponse ? Est-ce qu’on va réussir?” Probablement. Ce “probablement” est très différent du “oui” du Compliqué. Ça change tout ! Tout ! (A l’oral, nous laisserions un blanc pour appuyer, pour que ce message résonne. Prenez le temps la lecture d’assimiler cette différence).
 
-On ne sait pas évaluer. Il n’y a pas de lien de cause à effet. Autrement dit, une même cause ne produira pas toujours les mêmes effets. Et inversement, un effet ne proviendra pas forcément de la même cause. Nous pouvons relier cette notion au famaux "ça dépend du contexte" des coaches.
+On ne sait pas évaluer. Il n’y a pas de lien de cause à effet. Autrement dit, une même cause ne produira pas toujours les mêmes effets. Et inversement, un effet ne proviendra pas forcément de la même cause. Nous pouvons relier cette notion au fameux "ça dépend du contexte" des coaches.
 
 Il faudra d’abord explorer. En explorant, des pratiques émergeront, différentes d’avant et uniques pour un contexte. Et c’est en multipliant les expérimentations que l’on va multiplier nos chances de trouver une réponse qui convient.
 Pas de bonnes pratiques ici, encore moins de meilleures pratiques, ici place aux pratiques émergentes.
