@@ -128,7 +128,7 @@ Malgré ces points positifs, si l'on utilise ce modèle à outrance, on risque d
 
 # Le PCM dans nos métiers
 
-## Nils, coach
+## Nils, coach.
 D’après le test, je (Nils) suis base Empathique et phase Persévérant. Cela signifie que si nous prenons ces résultats au pied de la lettre, j’aimerais que l’on me parle avec les émotions, avec chaleur... avec ce que l’on appelle le canal nourricier. Sous stress, l’Empathique ou le Persévérant peuvent s’exprimer. Si c’est mon Persévérant qui s’exprime, je peux partir en croisade et et donc pas du tout avec chaleur, sans partager d’émotions.
 
 Il y a une part de vrai. Ce test m’a aidé à prendre conscience de la différence entre ce que j’aimerais entendre et ce que j’induis comme conversations en exprimant mes opinions sous stress. Qu'est-ce que je fais de manière plus délibérée suite à ce test et cette prise de conscience ? J’essaie davantage de livrer mes émotions, mes ressentis, de demander plus souvent aux autres comment ils se sentent, en formation ou dans la vie de tous les jours. J’essaie, quand j’exprime une croyance, une opinion, de préciser “c’est ma croyance” pour ne pas passer pour un bulldozer.
