@@ -3,7 +3,7 @@ title: "Cynefin. Les dynamiques"
 date: 2022-05-10T13:48:04+02:00
 featured_image: '/images/NouvellesDynamiques.png'
 draft: false
-author : Nils
+author : Emeline Boulet & Nils
 tags: ["grille de lecture", "modèle", "cynefin"]
 ---
 
