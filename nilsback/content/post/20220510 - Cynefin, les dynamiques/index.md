@@ -38,7 +38,7 @@ Cynefin ne juge pas les transitions en mal ou en bien, il met l’accent sur l�
 
 ## Dynamique 1 - “collapse, l’effondrement” 
 C’est le passage non voulu de la zone de complaisance, “sous-partie” du contexte Simple, au Chaos.  
-C’est souvent ce qui arrive dans une organisation qui ne se remet pas suffisamment en question et qui pense que ses succès du passé seront ses succès de demain. Elle ne prend pas suffisamment conscience du contexte dans lequel elle se situe, celui change et peut-être que ce changement appelle d’autres réponses, d’autres réponses que des réponses Simples.  
+C’est souvent ce qui arrive dans une organisation qui ne se remet pas suffisamment en question et qui pense que ses succès du passé seront ses succès de demain. Elle ne prend pas suffisamment conscience du contexte dans lequel elle se situe, celui-ci change et peut-être que ce changement appelle d’autres réponses, d’autres réponses que des réponses Simples.  
 Quand ces organisations sont dans le Chaos, il est déjà trop tard pour elles.
 Cette transition n’est pas volontaire, elle est subie. Dangereuse. Si elle est volontaire, consciente, on parle plutôt d'immunisation (cf. article mentionné en introduction)
 
@@ -76,7 +76,7 @@ Nous pensons notamment à des communautés de pratiques, à des hackathons, aux 
 L’exploitation est le chemin inverse du mouvement décrit précédemment, mouvement du Complexe au Compliqué.  
   
 Certains modèles, certaines pratiques du Complexe peuvent se révéler suffisamment stables pour évoluer dans un contexte ordonné.
-De communautés informelles peuvent sortir des idées, des pratiques suffisamment stables pour être intégrées dans des communautés officielles.
+Des communautés informelles peuvent sortir des idées, des pratiques suffisamment stables pour être intégrées dans des communautés officielles.
 Pourquoi “Just in time” ? Pour signifier que la livraison de ce qui se révèle stable doit se faire quand cela fait sens pour la plus grande structure.
 
 ## Dynamique 6 - “Swarming"
@@ -153,7 +153,7 @@ Que faut-il observer pour le savoir ?
 Quelles questions faut-il se poser ?
 Une fois arrivé dans le domaine Compliqué, la situation a-t-elle évolué ? Ce qui était précédemment établi est-il déstabilisé ?  
 
-Oui ? Alors il faut prendre la décision de revenir dans le domaine Complexe, et recommencer à expérimenter jusqu’à cela produise des résultats cohérents, reproductibles ET que la stabilisation soit possible. 
+Oui ? Alors il faut prendre la décision de revenir dans le domaine Complexe, et recommencer à expérimenter jusqu’à ce que cela produise des résultats cohérents, reproductibles ET que la stabilisation soit possible. 
 
 A contrario, si une fois le passage du Complexe vers le Compliqué, la situation se stabilise avec succès et que cela peut être observé sur une période de temps conséquente, il serait envisageable de la faire ensuite basculer dans le domaine du Simple.
 
