@@ -103,7 +103,7 @@ C’est pas mal tout ça, on s’est focalisé sur la valeur, maintenant, on est
 On s’est focalisé sur la valeur, on livre quand on le désire et après ? Après, dans le 3e lieu qui s’appelle Optimiser la valeur, les équipes en maîtrise livrent ce qui fait sens pour le marché et quand cela fait sens. Il y a une réelle différence entre quand elles le veulent et quand cela fait sens pour le marché.  
 C’est ici que l’on retrouve souvent les leaders d’un secteur. Le sous-titre de ce lieu c’est les promesses de l’agile. Quand on pense à ce qu’est l’agile, on pense time to market rapide, livraison fréquente, impact utilisateur, innovation, … eh ben c’est ici, dans le 3e lieu.  
 Tout à l’heure, nous parlions d’excellence technique, là c’est l’excellence Produit : on cherche à toujours mieux comprendre le marché, on n’hésite pas à tester, à pivoter, … On observe des pratiques comme le lean startup, le design thinking, le user story mapping, l’impact mapping, côté tech on va parler de DDD, domain driven design.
-
+  
 > Marion : Là, en général, la culture produit est bien ancrée. 
 Les équipes sont passées au niveau supérieur dans leur mindset, et dans leur façon de construire leur stratégie et leur produit.  
 Si je reprends l’exemple du framework OKR, il est ici implémenté au niveau stratégique d’un département. Au niveau équipe tous les réflexes & rituels liés à ce framework sont ancrés…tout converge vers les OKRs… le suivi hebdo, la communication autour des avancées strat et tactiques, tout est relié.  
@@ -119,7 +119,7 @@ Il reste donc un lieu. Curieux de découvrir ce dernier.
 > Nils : Le lieu que nous présentons en dernier n’est pas un objectif ou une quête à atteindre. Ici, les équipes en maîtrise aident la structure à s’organiser, à se renforcer… à devenir plus efficace.  
 Diana et James appellent ce lieu le futur de l’agile, les exemples sont peu nombreux. On peut penser à des structures type entreprises libérées (Zappos, FAVI, Gore, Chronoflex…). Des structures où la compréhension du rôle de chacun, du rôle de chaque équipe au sein de l’entreprise est claire, où la diffusion des compétences est délibérée, où la différence de types de fonctionnement  au sein de l’entreprise est choisi, conscient.
 Je pense à des concepts ou à des pratiques comme Cynefin, des réunions en mode forum ouvert, à la sociocratie, aux équipes auto-organisées évidemment mais également auto-constituées…
-
+  
 > Marion : Je conclurai en disant que côté produit on est sur le modèle des empowered teams de Marty Cagan. 
 Dans ce lieu les équipes sont autonomes et responsabilisées. C’est le graal en terme de culture produit, mais cela implique aussi d’avoir adopté toutes les bonnes pratiques citées auparavant (sinon ça ne marchera pas). 
 C’est rare encore aujourd’hui d’avoir des organisations qui ont totalement adopté ce modèle. Car cela sous-entend aussi que toute l’organisation pense product first.  
