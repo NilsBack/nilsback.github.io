@@ -11,7 +11,7 @@ tags: ["grille de lecture", "modèle", "spirale dynamique"]
 ## C'est quoi ? Ca sert à quoi ?
 
 La spirale dynamique s’intéresse à comment on pense, à ce que nous prenons en considération pour penser, elle ne s'intéresse pas à ce que l’on pense. Elle s’intéresse à des niveaux de pensée, à des niveaux d’existence qui ne sont ni bons ni mauvais que je détaillerai par la suite.
-Elle peut être utilisée pour un individu (psychogénèse) ou pour aux environnements (sociogénèse) : l'humanité, le monde entier, une équipe de sport, une association non gouvernementale, une entreprise du CAC40, une guilde de jeu vidéo, …
+Elle peut être utilisée pour un individu (psychogénèse) ou pour les environnements (sociogénèse) : l'humanité, le monde entier, une équipe de sport, une association non gouvernementale, une entreprise du CAC40, une guilde de jeu vidéo, …
 
 Il existe de nombreuses représentations de la spirale dynamique, en voici une que je trouve à la fois simple et complète :
 ![Une représentation de la spirale dynamique](spiral-dynamic-image.jpg "Une représentation de la spirale dynamique")
