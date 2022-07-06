@@ -1,6 +1,6 @@
 ---
 title: "Les grilles de lecture 6/7 - Spirale dynamique"
-date: 2022-05-17T11:59:04+02:00
+date: 2022-07-06T10:45:04+02:00
 featured_image: '/images/li-zhang-Spiral-unsplash.jpg'
 draft: false
 author : Nils
