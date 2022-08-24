@@ -14,7 +14,7 @@ ___
 ___
 **2019** - School of Product Ownership - Impact mapping avec [Loïc Le Molgat](https://www.linkedin.com/in/loiclemolgat/).  
 **2019** - Flupa UX Days - [Atelier de l'idée au backlog](/supports/FromIdeaToBacklog_Flupa_UXDays_2019.pdf) en 3h30 avec [Jonathan Litty](https://www.linkedin.com/in/jlitty/).  
-**2019** - Agile France - [Magie Noire](MagieNoire_AgileFrance_2019.pdf) ou la Pyramide de Dilts et l'équipe des All Blacks avec [Stéphane Bachelet](https://www.linkedin.com/in/stephanebachelet/).  
+**2019** - Agile France - [Magie Noire](/supports/MagieNoire_AgileFrance_2019.pdf) ou la Pyramide de Dilts et l'équipe des All Blacks avec [Stéphane Bachelet](https://www.linkedin.com/in/stephanebachelet/).  
 **2019** - Agile Pays Basque - User story mapping les mains dans la pâte  
 **2019** - FlowCon - Présentation et atelier [Agile Fluency](/supports/AgileFluency_Flowcon_2019.pdf) avec [Laurence Wolff](https://www.linkedin.com/in/laurence-wolff-524a261b/)  
 ___
