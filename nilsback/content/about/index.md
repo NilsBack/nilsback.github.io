@@ -2,6 +2,8 @@
 title: "Bio"
 description: ""
 --featured_image: ''
+menu:
+  main:
 ---
 
 Je me suis essayé à beaucoup de sports collectifs. Petit, c'était le football ! Puis, un célèbre numéro 23 m'a attiré, entraîné vers  le basket, puis ce fut le volley. J'aimais la beauté de ces sports et surtout leurs ballets de sauts. En déménageant à Toulouse pour des études de Chimie, j'ai eu un vrai coup de coeur pour ce qui est resté ma grande passion : le rugby. C'est aussi, à Toulouse que j'ai découvert le handball, sport roi dans les universités françaises et qui partage avec le rugby, la même recherche de l'intervalle.
