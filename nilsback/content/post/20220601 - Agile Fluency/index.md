@@ -7,15 +7,7 @@ author : Thomas Di Murro, Marion Lecerf & Nils
 tags: ["grille de lecture", "modèle", "agile fluency"]
 ---
 
-Ce post est le transcript du Podcast Good Morning Product sur le modèle Agile Fluency et la maturité Produit.  
-- [Spotify](https://open.spotify.com/episode/3L2c3B0R0t5ibnBMECSN5E?si=8PWzAEvLQ326Z7wH0ZgPOA)  
-- Autres plateformes à venir
-
-Vous pouvez retrouver les autres épisodes sur :  
-- [SoundCloud](https://soundcloud.com/goodmorningproduct)  
-- [Spotify](https://open.spotify.com/show/2TZwCljt7QDKIkfZEped2C)  
-- [Deezer](https://deezer.page.link/d5XieqemLLvA7jM3A)  
-- [Apple Podcast](https://podcasts.apple.com/gb/podcast/good-morning-design/id1565317487])  
+Ce post est le transcript du Podcast Good Morning Product sur le modèle Agile Fluency et la maturité Produit. Podcast disponible sur [Spotify](https://open.spotify.com/episode/3L2c3B0R0t5ibnBMECSN5E?si=8PWzAEvLQ326Z7wH0ZgPOA), [Deezer](https://deezer.page.link/tmEi5HbXsVB5gKmQ8) et [Apple Podcast](https://podcasts.apple.com/fr/podcast/good-morning-product-5-agile-fluency-et-maturit%C3%A9-produit/id1608547353?i=1000561632943).
 
 # Un Podcast autour d'Agile Fluency et de la maturité Produit
 
@@ -148,3 +140,4 @@ Merci beaucoup à tous les deux. On se retrouve très bientôt pour un nouvel é
 - Traduction en français du modèle : https://www.agilefluency.org/blog/2020-06-01-guest-post-lebook-agile-fluency-en-francais
 - Un [article FR](https://medium.com/@nils.lesieur/quelques-notes-sur-agile-fluency-1af822cc3ab7) qui présente le modèle plus rapidement que la traduction
 - Un [article](https://medium.com/benextcompany/agile-fluency-en-mode-workshop-c36a37b52f92) sur une idée d’atelier.
+- Les autres épisodes du Podcast Good Morning Product sont disponibles sur [SoundCloud](https://soundcloud.com/goodmorningproduct), [Spotify](https://open.spotify.com/show/2TZwCljt7QDKIkfZEped2C), [Deezer](https://deezer.page.link/d5XieqemLLvA7jM3A) et [Apple Podcast](https://podcasts.apple.com/gb/podcast/good-morning-design/id1565317487]). 
