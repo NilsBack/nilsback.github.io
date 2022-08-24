@@ -1,5 +1,4 @@
 ---
 title: "Supports"
-description: ""
+description: "Présentations de conférences et plus à venir"
 ---
-Nouvelle section. Bien plus à venir ;-)
