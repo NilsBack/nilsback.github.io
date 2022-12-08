@@ -7,7 +7,7 @@ menu:
 
 # Conférences
 
-**2022** - Agile Tour Lausanne - [Host Leadership](/supports/HostLeadership_AgileTourLausanne_2022.pdf) : présentation et expérimentations (revues et corrigées après les sessions de Rennes et de Lille)  
+**2022** - Agile Tour Lausanne - [Host Leadership](/supports/HostLeadership_AgileTourLausanne_2022.pdf) : présentation et expérimentations (support revu et corrigé après les sessions de Rennes et de Lille)  
 **2022** - AgiLille - [Host Leadership](/supports/HostLeadership_AgiLille_2022.pdf) : présentation et expérimentations.  
 
 ___
