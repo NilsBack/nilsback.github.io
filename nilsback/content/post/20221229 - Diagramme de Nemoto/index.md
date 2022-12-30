@@ -56,11 +56,17 @@ Je l'ai écrit au-dessus, ce qui est au-dessus est une adaptation. Avec une rapi
 
 Dans ces images, un mot absent de l'adaptation d'OCTO revient : "**Standards**". Le [Larousse](https://www.larousse.fr/dictionnaires/francais/standard/74452) définit un standard comme une "*règle fixe à l'intérieur d'une entreprise pour caractériser un produit, une méthode de travail, une quantité à produire, le montant d'un budget.*"
 
-Je le trouve important. Important car le mot "Standard" apporte un côté concret. Le fait qu'il apparaisse un peu partout relie les "couches" entre elles. Cela apporte plus de consistance et de simplicité au diagramme. 
+Je le trouve important. Important car le mot "Standard" apporte un côté concret. Le fait qu'il apparaisse un peu partout relie les "couches" entre elles. Cela apporte plus de consistance et de simplicité au diagramme.  
+  
+Au final, je retiens :  
+- **Imaginer** les standards de demain,
+- **Améliorer** en continu les standards,
+- **Respecter et maintenir** les standards.
 
 # Une représentation simple et efficace
 
-Rien de fondamental nouveau, ce diagramme représente simplement et efficacement la répartition de l'énergie en fonction des rôles dans l'entreprise et m'a permis de mettre une visualisation sur mon discours, d'illustrer mes propos lors de conversations avec mon client actuel.
+Rien de fondamental nouveau, ce diagramme représente simplement et efficacement la répartition de l'énergie en fonction des rôles dans l'entreprise et m'a permis de mettre une visualisation sur mon discours, d'illustrer mes propos lors de conversations avec mon client actuel.  
+  
 
 ---
   
@@ -68,6 +74,12 @@ Rien de fondamental nouveau, ce diagramme représente simplement et efficacement
 *Comme je le disais en introduction de cet article, il vient conclure une série d'articles sur les grilles de lecture. Ca fait un peu plaisir de boucler la boucle.*
 
 
+# Bibliographie
+- Support de la formation ["Devenir manager agile"](https://www.octo.academy/catalogue/formation/mop01-devenir-manager-agile/) proposée par OCTO
+- Sources des images :  
+ 	- https://www.humanperf.com/fr/blog/lexique-cplusclair/articles/diagramme-nemoto  
+ 	- http://www.efkin.eu/lean-berte-cie/diagramme-de-nemoto/  
+ 	- https://blog-gestion-de-projet.com/accompagnement-au-changement/  
 
 
  
