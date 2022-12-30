@@ -11,7 +11,7 @@ tags: ["grille de lecture", "modèle", "diagramme de Nemoto"]
 
 ---
 
-J'avais entrepris il y a presqu'un an une série d'articles sur les grilles de lecture, sur des modèles, j'ai écrit parfois en solo parfois en duo sur des modèles que je connaissais, que j'utilise ouo essaie d'utiliser. Mon degré d'appropriation varie selon les modèles présentés.
+J'avais entrepris il y a presqu'un an une série d'articles sur les grilles de lecture, sur des modèles. J'ai écrit parfois en solo parfois en duo sur des modèles que je connaissais, que j'utilise ou essaie d'utiliser. Mon degré d'appropriation varie selon les modèles présentés.
 
 J'ai mis du temps à trouver le sujet du dernier "chapitre" de cette série, j'ai pensé en premier lieu au modèle de Tuckman, je n'étais pas inspiré pour écrire dessus, j'ai essayé, je n'étais pas satisfait, j'ai jeté... Et puis je me suis dit que j'allais attendre de croiser un modèle, une grille de lecture de je ne connais pas. Attendre une découverte. 
 
@@ -26,7 +26,8 @@ Depuis quelques mois, je découvre OCTO, c'est plus grand que les dernières str
 
 Lors de cette formation, j'ai découvert et appris des astuces, des concepts, mais l'instant wahou s'est fait sur ce diagramme : 
 
-![Adaptation du Diagramme de Nemoto par OCTO](AdaptationDiagrammeNemotoParOCTO.jpg "Adaptation du Diagramme de Nemoto par OCTO")
+![Adaptation du Diagramme de Nemoto par OCTO](AdaptationDiagrammeNemotoParOCTO.jpg "Adaptation du Diagramme de Nemoto par OCTO")  
+
 > *Adaptation du Diagramme de Nemoto par OCTO*
 
 
