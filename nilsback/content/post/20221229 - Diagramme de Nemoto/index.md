@@ -2,7 +2,7 @@
 title: "Les grilles de lecture 7/7 - Le diagramme de Nemoto"
 date: 2022-12-29T10:08:04+02:00
 draft: false
---featured_image: '/images/PyramideDilts.jpg'
+featured_image: '/images/AdaptationDiagrammeNemotoParOCTO.jpg'
 author :  Nils
 tags: ["grille de lecture", "modèle", "diagramme de Nemoto"]
 ---
