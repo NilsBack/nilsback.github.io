@@ -59,9 +59,9 @@ Dans ces images, un mot absent de l'adaptation d'OCTO revient : "**Standards**".
 Je le trouve important. Important car le mot "Standard" apporte un côté concret. Le fait qu'il apparaisse un peu partout relie les "couches" entre elles. Cela apporte plus de consistance et de simplicité au diagramme.  
   
 Au final, je retiens :  
-- **Imaginer** les standards de demain,
-- **Améliorer** en continu les standards,
-- **Respecter et maintenir** les standards.
+- **Imaginer** les standards de demain,  
+- **Améliorer** en continu les standards,  
+- **Respecter et maintenir** les standards.  
 
 # Une représentation simple et efficace
 
