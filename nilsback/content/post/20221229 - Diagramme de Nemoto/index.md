@@ -22,7 +22,7 @@ L'impression que Toyota c'est comme Palo Alto : une mine sans fin.
 
 ## Une adaptation par OCTO
 
-Depuis quelques mois, je découvre OCTO, c'est plus grand que les dernières structures dans lesquelles j'ai évolué, la découverte prend plus de temps. Cette curiosité m'a amené il y a quelques mois a participé à une formation intitulée "Devenir manager agile". 
+Depuis quelques mois, je découvre OCTO, c'est plus grand que les dernières structures dans lesquelles j'ai évolué, la découverte prend plus de temps. Cette curiosité m'a amené, il y a quelques mois, à participer à une formation intitulée "Devenir manager agile". 
 
 Lors de cette formation, j'ai découvert et appris des astuces, des concepts, mais l'instant wahou s'est fait sur ce diagramme : 
 
