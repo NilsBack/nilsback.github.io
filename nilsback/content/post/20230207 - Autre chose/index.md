@@ -2,6 +2,7 @@
 title: "Il existe autre chose..."
 date: 2023-02-07T22:12:04+02:00
 draft: false
+featured_image: '/images/mur.jpeg'
 author :  Nils
 tags: ["cynefin", "émergence", "management", "mcgregor"]
 ---
@@ -33,7 +34,7 @@ Les certitudes. L'amour de la solution imaginée. Nos cerveaux exercés et prêt
 
 Un des préceptes du discours de la Méthode de Descartes est *"d’arriver à résoudre son problème en le décomposant en petits problèmes"*. 200 ans après ce précepte est encore bien ancré dans nos têtes. Ne parle-t-on pas d'esprit cartésien ? Découper en plus petits problèmes cela marche avec une fusée, une ferrari, mais avec une mayonnaise ? Car oui, il existe des problèmes qui ressemblent à une mayonnaise.
 
-Bref. Ce serait oublier l'émergence, l'émergence si familière aux enfants de maternelle, moins perclus de certitudes, de convictions. L'émergence, les petits pas chers aux agilistes, le complexe du modèle Cynefin, le design sprint du monde UX, ...
+Bref. Ce serait oublier l'émergence, l'émergence si familière aux enfants de maternelle, moins perclus de certitudes, de convictions. L'émergence, les petits pas chers aux agilistes, le complexe du cadre Cynefin, le design sprint du monde UX, ...
 
 
 # Que le management bâton-carotte
