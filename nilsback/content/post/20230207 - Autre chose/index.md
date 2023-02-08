@@ -59,7 +59,7 @@ Daniel Pink dans son livre écrit par exemple : *"Les incitations conditionnelle
 
 
 
-# Biliographie
+# Bibliographie
 - Page [Wikipedia](https://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y) sur la théorie X et Y de Mc Gregor 
 - Article du journal [Libération](https://www.liberation.fr/medias/1996/10/11/la-pub-ministerielle-fait-mal-passer-ses-messages-a-la-tele-details-d-une-etude-sur-onze-grandes-cam_184340/) mentionannt la publicité de la sécurité sociale
 - Le livre *Drive* de Daniel Pink traduit en français par [la vérité sur ce qui nous motive](https://www.recyclivre.com/products/1276654-la-verite-sur-ce-qui-nous-motive)
