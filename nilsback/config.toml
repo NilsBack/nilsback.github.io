@@ -11,6 +11,8 @@ enableRobotsTXT = true
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
 	mastodon = "https://piaille.fr/@nils"
   description = ""
+
+  favicon = "/images/favicon.ico"
   
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir"
