@@ -42,7 +42,7 @@ Les nombreux feedbacks recueillis à la fin de chaque formation m'ont beaucoup a
 ## Plusieurs étapes
 
 **La première version ?** Clairement un MVP. L'ambition de cette version était de valider le côté "tout atelier", autrement dit : tous les sujets abordés devaient pouvoir être abordés sous forme d'ateliers, par de la pratique, par de l'expérimentation.
-Je voulais, via cette formation, véhiculer une part de la culture benext. On expérimente, on essaie, on échoue, on réussit, on discute avec l'autre, on l'écoute, il nous écoute, nous nous enrichissons, on essaie autrement...
+Je voulais, via cette formation, véhiculer une part de la culture benext. On expérimente, on essaie, on échoue, on réussit, on discute avec l'autre, on l'écoute, il nous écoute, nous nous enrichissons, on essaie autrement....
 
 Quelque part dans ma veille, j'avais lu que plus il y avait de sens stimulés, plus l'apprentissage était assimilé. Une présentation au format Slide, en mode conférence, sollicite l'ouïe et la vue. En expérimentant je rajoutais le toucher, le côté kinesthésie.  
 Les échanges engendraient forcément la parole, ce n'est pas un sens, mais cela participait aussi à l'appropriation des choses, à la verbalisation de pensées, à la construction d'un discours. Il faudrait peut-être regardé du côté des neuro-sciences pour avoir une validation scientifique de ce que je ressens, je ne l'ai jamais fait.  
