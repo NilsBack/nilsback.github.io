@@ -42,7 +42,7 @@ Les nombreux feedbacks recueillis à la fin de chaque formation m'ont beaucoup a
 ## Plusieurs étapes
 
 **La première version ?** Clairement un MVP. L'ambition de cette version était de valider le côté "tout atelier", autrement dit : tous les sujets abordés devaient pouvoir être abordés sous forme d'ateliers, par de la pratique, par de l'expérimentation.
-Je voulais, via cette formation, véhiculer une part de la culture benext. On expérimente, on essaie, on échoue, on réussit, on discute avec l'autre, on l'écoute, il nous écoute, nous nous enrichissons, on essaie autrement....
+Je voulais, via cette formation, véhiculer une part de la culture benext. On expérimente, on essaie, on échoue, on réussit, on discute avec l'autre, on l'écoute, il nous écoute, nous nous enrichissons, on essaie autrement...
 
 Quelque part dans ma veille, j'avais lu que plus il y avait de sens stimulés, plus l'apprentissage était assimilé. Une présentation au format Slide, en mode conférence, sollicite l'ouïe et la vue. En expérimentant je rajoutais le toucher, le côté kinesthésie.  
 Les échanges engendraient forcément la parole, ce n'est pas un sens, mais cela participait aussi à l'appropriation des choses, à la verbalisation de pensées, à la construction d'un discours. Il faudrait peut-être regardé du côté des neuro-sciences pour avoir une validation scientifique de ce que je ressens, je ne l'ai jamais fait.  
@@ -54,7 +54,7 @@ Les échanges engendraient forcément la parole, ce n'est pas un sens, mais cela
 **Dans la deuxième version**, j'ai enlevé des ateliers qui apportaient de la confusion, du bruit à l'apprentissage. Je pense notamment à l'impact mapping qui demande plus de temps que je pouvais lui accorder, un survol brouillait les idées plus qu'il ne les éclairait.
 Le lego 4 scrum a lui aussi disparu peu à peu des radars surtout au profit du story mapping dont le temps d'animation a augmenté ; avec la croyance que tout PO devrait savoir animé cet atelier.
 
-Les **confinements** ont également apporté leur lot d'apprentissages. Le premier, et non des moindres, a été  : cette formation est compatible avec le distanciel. Il m'a fallu casser la croyance que cette formation qui faisait la part belle aux interactions, à la pratique, aux expérimentations. Mon premier réflexe avait d'annuler une formation prévue dans cette période avant de la maintenir.  
+Les **confinements** ont également apporté leur lot d'apprentissages. Le premier, et non des moindres, a été  : cette formation est compatible avec le distanciel. Il m'a fallu casser la croyance que cette formation qui faisait la part belle aux interactions, à la pratique, aux expérimentations. Mon premier réflexe avait été d'annuler une formation prévue dans cette période avant de la maintenir.  
 Il y a eu la réelle découverte d'outils comme Draft.io, Miro, Sococo, avant pour moi c'était plus de l'ordre du jouet, du gadget voire peut-être de l'inutile. Une plus grande utilisation m'a permis de mieux m'approprier ces outils, ça a beaucoup aidé à casser la croyance dont je parlais juste avant. Vous trouverez ci-dessous un exemple de Miro pour une des sessions à distance.  
 Un dernier apprentissage a été de découper la formation en 4 demi-journées plutôt qu'en 2 journées, ça a permis l'éclosion de la dernière version. Avant, dans mon cerveau, il fallait un fil conducteur par journée. Je détaille la dernière version dans la seconde partie de l'article.
 
