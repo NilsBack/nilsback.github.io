@@ -63,7 +63,7 @@ Aborder le sujet de richesse, c'est forcément parler de la misère (différent 
 
 ## Restructurer
 
-Cette reconptualisation amène à revoir les manières de produire, à revoir les habitudes, les institutions qui légifèrent, qui jugent... 
+Cette reconceptualisation amène à revoir les manières de produire, à revoir les habitudes, les institutions qui légifèrent, qui jugent... 
 
 ## Redistribuer
 
@@ -100,7 +100,6 @@ La décroissance, ce n'est pas une croissance négative, ce n'est pas non plus u
 La décroissance est une matrice d'autres possibles, les 8 R essaient de donner un cadre concret à cette *"utopie"*.
 
 ---
-
 
 
 ### Bibliographie 
