@@ -43,4 +43,10 @@ Merci à Maxime Lecoq, Jonathan Litty, Yannick Grenzinger, Pablo Pernot, Fleur S
 # Podcasts
 **2022** - Podcast Good Morning Product sur la **maturité produit et le modèle Agile Fluency** avec [Marion Lecerf](https://www.linkedin.com/in/marionlecerf/) et [Thomas Di Murro](https://www.linkedin.com/in/tdimurro/) : disponible sur [Spotify](https://open.spotify.com/episode/3L2c3B0R0t5ibnBMECSN5E?si=8PWzAEvLQ326Z7wH0ZgPOA), [Deezer](https://deezer.page.link/tmEi5HbXsVB5gKmQ8) et [Apple Podcast](https://podcasts.apple.com/fr/podcast/good-morning-product-5-agile-fluency-et-maturit%C3%A9-produit/id1608547353?i=1000561632943).
 
+# Support d'ateliers
+Pratiques pour **atelier Agile Fluency** en [.xlsx](/supports/PratiquesPourAtelierAgileFluency.xlsx)  
+Support de **formation School of Product** en [.pdf](/supports/FormationAgileProductOwnership_20220328.pdf)  
+Cartes Evenements pour **atelier Plan de release** en [.pdf](/supports/CartesEvenements.pdf)  
+Cartes pour **atelier Extrem Quotation** en [.pdf](/supports/Animaux_eXtremeQuotation.pdf)
+
 
