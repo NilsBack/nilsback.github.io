@@ -35,14 +35,14 @@ Le mot "soustraction" me plaît, il est un mot qui enveloppe des concepts comme 
 Enfin, ce mot "soustraction" permet de montrer les efforts à faire sur l'ego, sur l'écoute pour être une belle équipe.
 
 
-# Aggrégation et union
+# Agrégation et union
 
 Nous sommes nombreuses, nombreux à connaître la notion d'engagement : engager les personnes, leur donner envie de se donner, d'être ensemble, ... Sur ce sujet, c'est Rousseau qui propose une réflexion simple et que je trouve intéressante.
 
-Rousseau disait si on veut être ensemble, il y a deux manières d'être ensemble : l'**union** et l'**aggrégation**. L'aggrégation c'est quand on a été attiré par des forces extérieures : le destin, les hasards nous ont placé ici, un manager a décidé pour nous, ...
+Rousseau disait si on veut être ensemble, il y a deux manières d'être ensemble : l'**union** et l'**agrégation**. L'agrégation c'est quand on a été attiré par des forces extérieures : le destin, les hasards nous ont placé ici, un manager a décidé pour nous, ...
 A l'inverse, l'union, c'est nous qui décidons d'être ici, de faire partie de l'équipe : ça quand vient de l'intérieur du groupe, quand il y a un désir de faire groupe, quand ce désir qui vient du groupe.
 
-Rousseau est conscient que dans la vie de tous les jours, les choses ne sont pas aussi binaires : on commence souvent par être aggrégé.e, en gros on ne choisit pas si souvent son groupe (sa famille, ses collègues, ...) et pour lui tout l'enjeu c'est que toute aggrégation devienne une union. Fabien Galthié dans son interview parle de *"joueurs très liés entre eux"*, ajoute *qu'ils ont vécus des choses très fortes entre eux* et évoque *"quelque chose des très très fratenels."*  
+Rousseau est conscient que dans la vie de tous les jours, les choses ne sont pas aussi binaires : on commence souvent par être agrégé.e, en gros on ne choisit pas si souvent son groupe (sa famille, ses collègues, ...) et pour lui tout l'enjeu c'est que toute agrégation devienne une union. Fabien Galthié dans son interview parle de *"joueurs très liés entre eux"*, ajoute *qu'ils ont vécus des choses très fortes entre eux* et évoque *"quelque chose des très très fratenels."*  
   
   
 
