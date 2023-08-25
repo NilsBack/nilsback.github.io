@@ -1,7 +1,7 @@
 ---
-title: "Bio"
-description: ""
---featured_image: ''
+title: "Qui suis-je ?"
+description: "Né en 335ppm de CO2"
+featured_image : "/images/ClimateStripes.png"
 menu:
   main:
 ---
@@ -30,6 +30,8 @@ Agile à l'échelle
 
 Coaching équipes 
 
+Management
+
 Mentoring (groupes de coachs intra) 
 
 Facilitation (rituels, pratiques, ateliers) 
@@ -39,13 +41,3 @@ Facilitation (rituels, pratiques, ateliers)
 Culture et audit d'entreprise (agile fluency, spirale dynamique, ...) 
 
 Formation
-
----
-
-
-# ME SUIVRE
-
-Sur [Twitter](https://twitter.com/Nils_Back)
-
-Sur [LinkedIn](https://www.linkedin.com/in/nilslesieur/)
-
