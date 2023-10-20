@@ -2,7 +2,7 @@
 title: "Quelques outils de management"
 date: 2023-10-19T10:08:04+02:00
 draft: false
---featured_image: '/images/Rafting_By_JackalopeWest.jpg'
+featured_image: '/images/Outils.avif'
 author :  Nils
 tags: ["management"]
 ---
@@ -118,5 +118,8 @@ Favoriser plus l’introspection en utilisant davantage le triangle présenté p
 # Conclusion
 
 Comme Laura en interne, j’ouvre ma “toolbox” de manager, si vous aussi, lecteurs, lectrices, vous avez envie de partager votre toolbox avec moi, avec la communauté, ce sera avec plaisir.
+
+
+Crédits Photo : [jesse orrico](https://unsplash.com/fr/@jessedo81)
 
 
