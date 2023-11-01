@@ -1,6 +1,6 @@
 ---
 title: "Petites conversations de management entre amis"
-date: 2023-10-19T10:08:04+02:00
+date: 2023-10-30T10:08:04+02:00
 draft: false
 --featured_image: '/images/Outils.avif'
 author :  Nils
