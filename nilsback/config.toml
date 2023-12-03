@@ -7,7 +7,6 @@ SectionPagesMenu = "main"
 enableRobotsTXT = true
 
 [params]
-  twitter = "https://twitter.com/nils_back"
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
 	mastodon = "https://piaille.fr/@nils"
   rss = "../index.xml"
