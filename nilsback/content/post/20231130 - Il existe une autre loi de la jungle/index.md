@@ -46,13 +46,13 @@ Dans l’entreprise, on parle souvent de “développement personnel”. Super !
 Pourquoi ne pas pousser encore un peu le curseur et parler de “développement collectif” ? Cette expression je l'ai également découverte dans le livre de Pablo Servigne. J'aime cette opposition personnel / collectif, développement personnel / développement collectif.  
 
 Qu'est-ce que je mettrais derrière cette expression de "développement collectif" ?  
-- S’entraîner en groupe à faire son métier sur ces heures de travail ?
-- Disposer d'un espace pour demander de l'aide au groupe ?
-- Participer à une communauté de pairs ? De façon régulière et fréquente ?
-- Animer des communautés de pairs cross départements / services / entités ?
-- Participer des ateliers comme le give and take, les cartes des forces ou à de l'impro théâtrale ?
-- Tenter des expérimentations comme la sociocratie ?
-- Façonner ce maillage en entreprise que la nature tisse depuis 3,8 milliards ?
+- S’entraîner en groupe à faire son métier sur ces heures de travail ?  
+- Disposer d'un espace pour demander de l'aide au groupe ?  
+- Participer à une communauté de pairs ? De façon régulière et fréquente ?  
+- Animer des communautés de pairs cross départements / services / entités ?  
+- Participer des ateliers comme le give and take, les cartes des forces ou à de l'impro théâtrale ?  
+- Tenter des expérimentations comme la sociocratie ?  
+- Façonner ce maillage en entreprise que la nature tisse depuis 3,8 milliards ?  
 
 
 Dans un précédent post que j'avais intitulé [Il existe autre chose...](https://www.nilslesieur.fr/2023/02/il-existe-autre-chose.../), j'avais dénoncé l'omniprésence des processus, l'omniprésence des *single right plans* et du management "bâton carotte" dans mon environnement de travail.  
