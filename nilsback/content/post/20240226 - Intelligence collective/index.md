@@ -1,5 +1,5 @@
 ---
-title: "L'intelligence collective, c'est pas automatique"
+title: "L'intelligence collective, c'est pas automatique !"
 date: 2024-02-26T10:08:04+02:00
 draft: false
 featured_image: '/images/lightpainting.jpg'
