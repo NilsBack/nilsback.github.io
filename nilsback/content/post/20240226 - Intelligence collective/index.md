@@ -31,6 +31,7 @@ Sir Galton démontre, dans son article, qu'un nombre suffisant de participants, 
 Réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective, ne garantit pas une intelligence qui dépasse celle de chaque personne.
 
 Quelques ingrédients indispensables pour que l’intelligence émerge  
+
 * **Motivation/engagement** : la motivation de chaque personne présente, mobilisée est indispensable. Dans l’anecdote de Plymouth, l’engagement est généré par le coût du ticket et l’envie de gagner, une personne non motivée, non engagée aurait très bien pu proposer une estimation à 10.000 lbs.  
   
 * **Diversité d’opinions** : cela peut sembler bête, mais quand vous réfléchissez au management de votre collectif, invitez-vous des personnes qui ne sont pas manager ? Quand vous réfléchissez à votre produit, invitez vous de temps à autre des clients ? Etc…  
@@ -53,6 +54,7 @@ Le bon résultat collectif est aussi dû aux résultats aberrants de certain.es.
 Pour être bref, la pensée de groupe = entre soi ou, pour citer un des formateurs, “ *comment être puissamment débile ensemble* ”.
 
 Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelligence collective :  
+
 * un groupe homogène  
 * un leadership descendant  
 * l’autocensure est présente  
