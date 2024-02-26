@@ -7,9 +7,9 @@ author : Nils
 tags: ["management", "équipe", "team", "entraide", "communauté", "émergence"]
 ---
 
-Je suis entre 2 modules de formation animée et organisée par l’Institut des futurs souhaitables, la formation s’intitule Organisations souhaitables.
+Je suis entre 2 modules de formation animée et organisée par [l’Institut des futurs souhaitables](https://www.futurs-souhaitables.org/), la formation s’intitule [Organisations souhaitables](https://communaute.futurs-souhaitables.org/page/la-focuslab-organisations-souhaitables).
 
-Lors de la première journée, nous avons abordé la notion d’intelligence collective. Ce que c’est. Ce que ce n’est pas.
+Lors de la première journée, nous avons notamment abordé la notion d’intelligence collective. Ce que c’est. Ce que ce n’est pas.
 
 Partage.
 
@@ -78,3 +78,5 @@ Il y a effectivement des choses qui sont facilement sondables (diversité du gro
 
 
 *Crédits photo : [Gertrūda Valasevičiūtė](https://unsplash.com/fr/@skraidantisdrambliukas)*
+
+Et bon anniversaire Papa <3
