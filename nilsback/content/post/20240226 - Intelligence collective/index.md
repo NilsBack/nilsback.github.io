@@ -30,18 +30,17 @@ Sir Galton démontre, dans son article, qu'un nombre suffisant de participants, 
 
 Réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective, ne garantit pas une intelligence qui dépasse celle de chaque personne.
 
-Quelques ingrédients indispensables pour que l’intelligence émerge 
-- **Motivation/engagement** : la motivation de chaque personne présente, mobilisée est indispensable. Dans l’anecdote de Plymouth, l’engagement est généré par le coût du ticket et l’envie de gagner, une personne non motivée, non engagée aurait très bien pu proposer une estimation à 10.000 lbs. 
+Quelques ingrédients indispensables pour que l’intelligence émerge  
+- **Motivation/engagement** : la motivation de chaque personne présente, mobilisée est indispensable. Dans l’anecdote de Plymouth, l’engagement est généré par le coût du ticket et l’envie de gagner, une personne non motivée, non engagée aurait très bien pu proposer une estimation à 10.000 lbs.  
+  
+- **Diversité d’opinions** : cela peut sembler bête, mais quand vous réfléchissez au management de votre collectif, invitez-vous des personnes qui ne sont pas manager ? Quand vous réfléchissez à votre produit, invitez vous de temps à autre des clients ? Etc…  
 
-- **Diversité d’opinions** : cela peut sembler bête, mais quand vous réfléchissez au management de votre collectif, invitez-vous des personnes qui ne sont pas manager ? Quand vous réfléchissez à votre produit, invitez vous de temps à autre des clients ? Etc…
-
-- **Indépendance** : chacun.e est libre de penser comme il/elle l’entend, de partager, de demander, de proposer.
-
-- **Cadre de sécurité** : bienveillance sans complaisance, confidentialité, logique de contribution (partager son point de vue et droit à la non réussite) et souveraineté individuelle(choix en conscience de partager, de demander, de proposer…)
-
-- **Décentralisation** : proposer autre chose que des avis lissés
-
-- **Système d’agrégation** : il faut un système pour agréger les idées, dans l’anecdote ci-dessus, c’est une simple moyenne, dans un design sprint, cela peut être une galerie des solutions, …
+- **Indépendance** : chacun.e est libre de penser comme il/elle l’entend, de partager, de demander, de proposer.  
+- **Cadre de sécurité** : bienveillance sans complaisance, confidentialité, logique de contribution (partager son point de vue et droit à la non réussite) et souveraineté individuelle(choix en conscience de partager, de demander, de proposer…)  
+  
+- **Décentralisation** : proposer autre chose que des avis lissés  
+  
+- **Système d’agrégation** : il faut un système pour agréger les idées, dans l’anecdote ci-dessus, c’est une simple moyenne, dans un design sprint, cela peut être une galerie des solutions, …  
 
 Je reviens sur Sir Galton : les estimations extrêmes (la plus basse et la plus haute) pourraient être considérées comme ridicules car les plus éloignées de la réalité mais, parce qu’il y a un mais, sans l’une ou l’autre d’elles, la moyenne ne serait plus aussi juste.  
 Les solutions marginales qui vont émerger lors de vos séances collectives vont servir le collectif, cultiver la diversité.  
@@ -71,17 +70,17 @@ Une personne m’a demandé : “*Chouette ce partage, tu vas en faire quoi ?*�
 
 Réponse à chaud : Lors de mes préparations d’ateliers je serai plus attentif à certains aspects, je pense notamment à des points comme l'homogénéité du groupe ou le leadership descendant (qui pourrait engendrer stress et autocensure)
 
-Une autre m’a invité à réfléchir et m’a notamment posé ces questions 
-- “*Tu vas changer quoi dans ton questionnement ?*”
-- “*Comment tu peux traduire ça en question ?*”
-- “*Comment vas-tu aller chercher ces conditions ?*” Bonne question, elles paraissent si simples et si claires.
-- “*Comment cela peut irriguer ta pratique ?*” C'est tout l'enjeu ! Transformer cette découverte, cet apprentissage en de nouvelles habitudes, de nouveaux réflexes. (l'écriture de cet article est, pour moi, un pas de plus vers l'ancrage.)
+Une autre m’a invité à réfléchir et m’a notamment posé ces questions  
+- “*Tu vas changer quoi dans ton questionnement ?*”  
+- “*Comment tu peux traduire ça en question ?*”  
+- “*Comment vas-tu aller chercher ces conditions ?*” Bonne question, elles paraissent si simples et si claires.  
+- “*Comment cela peut irriguer ta pratique ?*” C'est tout l'enjeu ! Transformer cette découverte, cet apprentissage en de nouvelles habitudes, de nouveaux réflexes. (l'écriture de cet article est, pour moi, un pas de plus vers l'ancrage.)  
 
 Il y a effectivement des choses qui sont facilement sondables (diversité du groupe, posture des participant.es) mais, par exemple, la motivation c’est plus flou, plus fin, plus nébuleux et très expérientiel.
 
-# Bibliographie : 
-- Un [article](https://www.roywalkerwealth.com/2018/01/why-you-cant-beat-market-sir-francis-galton.html) sur les recherches de Sir Galton 
-- Un [article](https://www.cairn.info/revue-societes-2003-1-page-105.htm) de Pierre Lévy, le père de l’expression “intelligence collective”
+# Bibliographie :  
+- Un [article](https://www.roywalkerwealth.com/2018/01/why-you-cant-beat-market-sir-francis-galton.html) sur les recherches de Sir Galton  
+- Un [article](https://www.cairn.info/revue-societes-2003-1-page-105.htm) de Pierre Lévy, le père de l’expression “intelligence collective”  
 
 
 *Crédits photo : [Gertrūda Valasevičiūtė](https://unsplash.com/fr/@skraidantisdrambliukas)*
