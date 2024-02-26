@@ -52,13 +52,13 @@ Le bon résultat collectif est aussi dû aux résultats aberrants de certain.es.
 
 Pour être bref, la pensée de groupe = entre soi ou, pour citer un des formateurs, “*comment être puissamment débile ensemble*”.
 
-Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelligence collective : 
-- un groupe homogène
-- un leadership descendant
-- l’autocensure est présente
-- la sur-rationalisation
-- l’illusion d’invulnérabilité
-- le stress
+Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelligence collective :  
+- un groupe homogène  
+- un leadership descendant  
+- l’autocensure est présente  
+- la sur-rationalisation  
+- l’illusion d’invulnérabilité  
+- le stress  
 
 Je réécris cette phrase : réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective.
 
@@ -66,15 +66,15 @@ Je réécris cette phrase : réunir quelques personnes dans une salle et les fai
 Ce que j’écris ici, je l’ai partagé, il y a peu, dans deux communautés, une avec des coaches aux facettes diverses (RH, Produit, Leadership, UX) et une composée de collègues qui partage des convictions autour de la complexité et de la systémie.
 Lors de ces partages, il y a eu pas mal de questions, de conversations. Voici quelques moments choisis : 
 
-Une personne m’a demandé : “*Chouette ce partage, tu vas en faire quoi ?*”
+Une personne m’a demandé : “ *Chouette ce partage, tu vas en faire quoi ?* ”
 
 Réponse à chaud : Lors de mes préparations d’ateliers je serai plus attentif à certains aspects, je pense notamment à des points comme l'homogénéité du groupe ou le leadership descendant (qui pourrait engendrer stress et autocensure)
 
 Une autre m’a invité à réfléchir et m’a notamment posé ces questions  
-- “*Tu vas changer quoi dans ton questionnement ?*”  
-- “*Comment tu peux traduire ça en question ?*”  
-- “*Comment vas-tu aller chercher ces conditions ?*” Bonne question, elles paraissent si simples et si claires.  
-- “*Comment cela peut irriguer ta pratique ?*” C'est tout l'enjeu ! Transformer cette découverte, cet apprentissage en de nouvelles habitudes, de nouveaux réflexes. (l'écriture de cet article est, pour moi, un pas de plus vers l'ancrage.)  
+- “ *Tu vas changer quoi dans ton questionnement ?* ”  
+- “ *Comment tu peux traduire ça en question ?* ”  
+- “ *Comment vas-tu aller chercher ces conditions ?* ” Bonne question, elles paraissent si simples et si claires.  
+- “ *Comment cela peut irriguer ta pratique ?* ” C'est tout l'enjeu ! Transformer cette découverte, cet apprentissage en de nouvelles habitudes, de nouveaux réflexes. (l'écriture de cet article est, pour moi, un pas de plus vers l'ancrage.)  
 
 Il y a effectivement des choses qui sont facilement sondables (diversité du groupe, posture des participant.es) mais, par exemple, la motivation c’est plus flou, plus fin, plus nébuleux et très expérientiel.
 
