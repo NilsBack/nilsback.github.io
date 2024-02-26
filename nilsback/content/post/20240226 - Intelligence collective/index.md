@@ -50,7 +50,7 @@ Le bon résultat collectif est aussi dû aux résultats aberrants de certain.es.
 
 # Pensée de groupe
 
-Pour être bref, la pensée de groupe = entre soi ou, pour citer un des formateurs, “*comment être puissamment débile ensemble*”.
+Pour être bref, la pensée de groupe = entre soi ou, pour citer un des formateurs, “ *comment être puissamment débile ensemble* ”.
 
 Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelligence collective :  
 - un groupe homogène  
