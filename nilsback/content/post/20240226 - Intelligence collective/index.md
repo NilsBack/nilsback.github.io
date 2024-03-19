@@ -28,7 +28,7 @@ Sir Galton démontre, dans son article, qu'un nombre suffisant de participants, 
 
 # Intelligence collective
 
-Réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective, ne garantit pas une intelligence qui dépasse celle de chaque personne.
+Réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective, une intelligence qui dépasse celle de chaque personne.
 
 Quelques ingrédients indispensables pour que l’intelligence émerge  
 
@@ -37,7 +37,7 @@ Quelques ingrédients indispensables pour que l’intelligence émerge
 * **Diversité d’opinions** : cela peut sembler bête, mais quand vous réfléchissez au management de votre collectif, invitez-vous des personnes qui ne sont pas manager ? Quand vous réfléchissez à votre produit, invitez vous de temps à autre des clients ? Etc…  
 
 * **Indépendance** : chacun.e est libre de penser comme il/elle l’entend, de partager, de demander, de proposer.  
-* **Cadre de sécurité** : bienveillance sans complaisance, confidentialité, logique de contribution (partager son point de vue et droit à la non réussite) et souveraineté individuelle(choix en conscience de partager, de demander, de proposer…)  
+* **Cadre de sécurité** : bienveillance sans complaisance, confidentialité, logique de contribution (partager son point de vue et droit à la non réussite) et souveraineté individuelle (choix en conscience de partager, de demander, de proposer…)  
   
 * **Décentralisation** : proposer autre chose que des avis lissés  
   
@@ -55,8 +55,8 @@ Pour être bref, la pensée de groupe = entre soi ou, pour citer un des formateu
 
 Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelligence collective :  
 
-* un groupe homogène  
-* un leadership descendant  
+* le groupe homogène  
+* le leadership descendant  
 * l’autocensure est présente  
 * la sur-rationalisation  
 * l’illusion d’invulnérabilité  
@@ -65,7 +65,8 @@ Les ingrédients qui vont favoriser la pensée de groupe plutôt que l’intelli
 Je réécris cette phrase : réunir quelques personnes dans une salle et les faire réfléchir ensemble ne garantit pas une intelligence collective.
 
 # J’en fais quoi de cet apprentissage ?
-Ce que j’écris ici, je l’ai partagé, il y a peu, dans deux communautés, une avec des coaches aux facettes diverses (RH, Produit, Leadership, UX) et une composée de collègues qui partage des convictions autour de la complexité et de la systémie.
+Ce que j’écris ici, je l’ai partagé, il y a peu, dans deux communautés. Une avec des collègues qui partagent des convictions autour de la complexité, de la systémie. Une autre composée de coaches aux facettes diverses (RH, Produit, Leadership, UX).
+
 Lors de ces partages, il y a eu pas mal de questions, de conversations. Voici quelques moments choisis : 
 
 Une personne m’a demandé : “ *Chouette ce partage, tu vas en faire quoi ?* ”
@@ -75,7 +76,7 @@ Réponse à chaud : Lors de mes préparations d’ateliers je serai plus attenti
 Une autre m’a invité à réfléchir et m’a notamment posé ces questions  
 - “ *Tu vas changer quoi dans ton questionnement ?* ”  
 - “ *Comment tu peux traduire ça en question ?* ”  
-- “ *Comment vas-tu aller chercher ces conditions ?* ” Bonne question, elles paraissent si simples et si claires.  
+- “ *Comment vas-tu aller chercher ces conditions ?* ” Bonnes questions ! Ces conditions paraissent si simples et si claires.  
 - “ *Comment cela peut irriguer ta pratique ?* ” C'est tout l'enjeu ! Transformer cette découverte, cet apprentissage en de nouvelles habitudes, de nouveaux réflexes. (l'écriture de cet article est, pour moi, un pas de plus vers l'ancrage.)  
 
 Il y a effectivement des choses qui sont facilement sondables (diversité du groupe, posture des participant.es) mais, par exemple, la motivation c’est plus flou, plus fin, plus nébuleux et très expérientiel.
