@@ -1,6 +1,6 @@
 ---
 title: "Matériel"
-description: "Présentations de conférences et plus à venir"
+description: "Conférences, podcast, livres et autres"
 menu:
   main:
 ---

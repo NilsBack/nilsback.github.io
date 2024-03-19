@@ -1,7 +1,4 @@
 ---
 title: "Nils' kitchen"
-description: "Notes et partage de mon quotidien de coach agile"
+description: "Aimer passer la balle entre grand.es et petit.es"
 ---
-
-
-> *"Le meilleur moyen d’atteindre son objectif au rugby est d’aider les autres à atteindre le leur"* - Jonny Wilkinson
