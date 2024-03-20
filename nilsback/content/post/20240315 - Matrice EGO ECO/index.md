@@ -10,7 +10,7 @@ tags: ["sociodynamique", "grille de lecture", "modèle"]
 Lors de la formation intitulée Organisations souhaitables et animée par l'Institut des futurs souhaitables que j’ai mentionnée dans mon précédent post sur la différence entre pensée de groupe et [l’intelligence collective](https://www.nilslesieur.fr/2024/02/lintelligence-collective-cest-pas-automatique/), j’ai également découvert la notion de sociodynamique et notamment la matrice EGO / ECO.
 
 # Dialectique
-Je lis que la matrice EGO / ECO repose sur une dialectique, comme je n’étais pas sûr de la définition, j’ai ouvert un dictionnaire. Selon le Robert, la dialectique c’est la “ *marche de la pensée reconnaissant le caractère **inséparable** des propositions **contradictoires** que l'on peut unir dans une synthèse.* ”.
+Je lis que la matrice EGO / ECO repose sur une dialectique, comme je n’étais pas sûr de la définition, j’ai ouvert un dictionnaire. Selon le Robert, la dialectique c’est la “ *marche de la pensée reconnaissant le caractère **inséparable** des propositions **contradictoires** que l'on peut unir dans une synthèse* ”.
 
 Ici, elle peut être représentée par 2 axes : EGO (l'un) et ECO (le multiple). (Les mots EGO et ECO semblent être empruntés à Edgar Morin).
 
@@ -32,18 +32,18 @@ ECO est fort quand l’entreprise est ouverte à l’extérieur (clients, fourni
 
 La dialectique de cette matrice c’est donc de penser en fonction de ces 2 axes qui semblent s’opposer. Est-il possible d’avoir un EGO fort et un ECO fort ?  
 Autrement dit, est-il possible :  
-* d’avoir plein de composantes qui fédèrent en interne 
-* et de créer plein d’interactions avec l’extérieur, d’en tirer des bénéfices, de faire évoluer l’entreprise en fonction de ce que l’on perçoit à l’extérieur ?
+* d’avoir plein de composantes qui fédèrent en interne  
+* et de créer plein d’interactions avec l’extérieur, d’en tirer des bénéfices, de faire évoluer l’entreprise en fonction de ce que l’on perçoit à l’extérieur ?  
 
 # La matrice en quelques mots
 
 ![Les types d'organisation de la matrice EGO ECO](MatriceEGOECO_Organisation.jpg "Les types d'organisation de la matrice EGO ECO")
 
 De cette dialectique naît 4 zones :  
-* EGO faible / ECO faible : organisation dite **mécaniste**
-* EGO fort / ECO faible : organisation dite **tribale**
-* EGO faible / ECO fort : organisation dite **transactionnelle**
-* EGO fort / ECO fort : organisation dite **holistique**
+* EGO faible / ECO faible : organisation dite **mécaniste**  
+* EGO fort / ECO faible : organisation dite **tribale**  
+* EGO faible / ECO fort : organisation dite **transactionnelle**  
+* EGO fort / ECO fort : organisation dite **holistique**  
 
 Nous le verrons : aucune zone n’est mauvaise, n’est bonne, elles possèdent toutes des avantages, des inconvénients. 
 
@@ -94,10 +94,10 @@ Côté énergie ? C’est le type qui demande le plus d’énergie, la dialectiq
 # Exemple avec le recrutement d’une nouvelle personne
 Il est rare qu'une entreprise ne se résume à un seul type, cela signifie que certain bouts que l'on peut appelait micro-forces se situent dans un type.
 Je m'essaie à la narration de processus fictifs de recrutement en utilisant la matrice EGO ECO.
- 
-* Mécaniste : Suite à une annonce publiée, l’entreprise reçoit des candidatures sous forme de CV. Un logiciel analyse les CVs et les classe par pertinence. La personne dont le CV apparaît en premier est rencontrée.
-* Tribal : La personne pressentie pour le poste rencontre tout ou une partie de l’entreprise lors d’un événement interne, elle participe à un afterwork. Le dernier mot revient au “chef de la tribu”.
-* Transactionnel : Un.e commercial.e détecte une opportunité commerciale, cette opportunité nécessite le recrutement d’une personne. Cette information n’est pas partagée au reste de l’équipe commerciale. Le ou la commercial.e mène des actions individuelles : regarde les derniers CVs reçus, appelle, rencontre des personnes.
+  
+* Mécaniste : Suite à une annonce publiée, l’entreprise reçoit des candidatures sous forme de CV. Un logiciel analyse les CVs et les classe par pertinence. La personne dont le CV apparaît en premier est rencontrée.  
+* Tribal : La personne pressentie pour le poste rencontre tout ou une partie de l’entreprise lors d’un événement interne, elle participe à un afterwork. Le dernier mot revient au “chef de la tribu”.  
+* Transactionnel : Un.e commercial.e détecte une opportunité commerciale, cette opportunité nécessite le recrutement d’une personne. Cette information n’est pas partagée au reste de l’équipe commerciale. Le ou la commercial.e mène des actions individuelles : regarde les derniers CVs reçus, appelle, rencontre des personnes.  
 * Holistique : La décision de recruter une nouvelle personne est prise en groupe. La tâche de sélectionner le CV revient à une personne soit par vote du groupe soit parce que cela fait partie de ces responsabilités. Cette personne propose 3 CVs au groupe. Il a été expérimenté plusieurs modes de recrutements. Le groupe propose le mode de recrutement en fonction de ce qui a été testé, des profils personnes à rencontrer et du poste.
 Les personnes participent notamment à un moment de travail avec l’équipe. Un client participe comme observateur au recrutement. La décision revient à une groupe de personnes dont un des mandats est de décider des recrutements.
 
@@ -111,18 +111,18 @@ Ma mission actuelle me donne également l’occasion de tester ce modèle, de r�
 ## Les micro-forces
 
 Une autre utilisation qui est présentée dans le livre et que j’ai expérimentée lors de la formation est de l’utiliser pour situer une entreprise sur cette matrice :  
-* Raconter une situation d’une entreprise.
-* Identifier les composantes, les micro-forces (système de recrutement, management, approche clients, modèle de décision, marqueurs culturels, reconnaissance, …)
-* Les noter sur des post-it.
-* Les positionner sur la matrice : dans quel type ? Plus en haut ? En bas ? Plus à gauche ?... (voir l'image ci-dessous)
-* Entourer ces micro-forces. Cette forme (ronde, haricot, croissant, …) peut être vue comme l’enveloppe d’un ballon de baudruche. (en bleu sur l'image)
+* Raconter une situation d’une entreprise.  
+* Identifier les composantes, les micro-forces (système de recrutement, management, approche clients, modèle de décision, marqueurs culturels, reconnaissance, …). 
+* Les noter sur des post-it.  
+* Les positionner sur la matrice : dans quel type ? Plus en haut ? En bas ? Plus à gauche ?... (voir l'image ci-dessous). 
+* Entourer ces micro-forces. Cette forme (ronde, haricot, croissant, …) peut être vue comme l’enveloppe d’un ballon de baudruche. (en bleu sur l'image). 
 
 ![Utilisation de la matrice EGO ECO avec les micro-forces](MatriceEGOECO_MicroforcesEtCible.jpg "Utilisation de la matrice EGO ECO avec les micro-forces")
 
 
-Vous voulez étirer ce ballon, modifier sa forme, le déplacer vers un autre emplacement, ... ? (un exemple est en rouge sur l'image ci-dessous)
-* Identifier quelles sont les micro-forces les plus proches : ce sont vos prochaines actions.
-* Identifier les micro-forces à l’opposé, elles agissent comme des freins, comme des ancres. Il faudra sans doute également agir dessus. C’est l'homéostasie du système qui s’exprime.  
+Vous voulez étirer ce ballon, modifier sa forme, le déplacer vers un autre emplacement, ... ? (un exemple est en rouge sur l'image ci-dessous).  
+* Identifier quelles sont les micro-forces les plus proches : ce sont vos prochaines actions.  
+* Identifier les micro-forces à l’opposé, elles agissent comme des freins, comme des ancres. Il faudra sans doute également agir dessus. C’est l'homéostasie du système qui s’exprime.   
 
 ![Actions à mener en utilisant les micro-forces positionnées sur la matrice EGO ECO](MatriceEGOECO_Actions.jpg "Actions à mener en utilisant les micro-forces positionnées sur la matrice EGO ECO")
 
