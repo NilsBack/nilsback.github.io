@@ -32,6 +32,7 @@ ECO est fort quand l’entreprise est ouverte à l’extérieur (clients, fourni
 
 La dialectique de cette matrice c’est donc de penser en fonction de ces 2 axes qui semblent s’opposer. Est-il possible d’avoir un EGO fort et un ECO fort ?  
 Autrement dit, est-il possible :  
+
 * d’avoir plein de composantes qui fédèrent en interne  
 * et de créer plein d’interactions avec l’extérieur, d’en tirer des bénéfices, de faire évoluer l’entreprise en fonction de ce que l’on perçoit à l’extérieur ?  
 
@@ -40,6 +41,7 @@ Autrement dit, est-il possible :
 ![Les types d'organisation de la matrice EGO ECO](MatriceEGOECO_Organisation.jpg "Les types d'organisation de la matrice EGO ECO")
 
 De cette dialectique naît 4 zones :  
+
 * EGO faible / ECO faible : organisation dite **mécaniste**  
 * EGO fort / ECO faible : organisation dite **tribale**  
 * EGO faible / ECO fort : organisation dite **transactionnelle**  
@@ -111,16 +113,18 @@ Ma mission actuelle me donne également l’occasion de tester ce modèle, de r�
 ## Les micro-forces
 
 Une autre utilisation qui est présentée dans le livre et que j’ai expérimentée lors de la formation est de l’utiliser pour situer une entreprise sur cette matrice :  
+
 * Raconter une situation d’une entreprise.  
-* Identifier les composantes, les micro-forces (système de recrutement, management, approche clients, modèle de décision, marqueurs culturels, reconnaissance, …). 
+* Identifier les composantes, les micro-forces (système de recrutement, management, approche clients, modèle de décision, marqueurs culturels, reconnaissance, …).  
 * Les noter sur des post-it.  
-* Les positionner sur la matrice : dans quel type ? Plus en haut ? En bas ? Plus à gauche ?... (voir l'image ci-dessous). 
-* Entourer ces micro-forces. Cette forme (ronde, haricot, croissant, …) peut être vue comme l’enveloppe d’un ballon de baudruche. (en bleu sur l'image). 
+* Les positionner sur la matrice : dans quel type ? Plus en haut ? En bas ? Plus à gauche ?... (voir l'image ci-dessous).  
+* Entourer ces micro-forces. Cette forme (ronde, haricot, croissant, …) peut être vue comme l’enveloppe d’un ballon de baudruche. (en bleu sur l'image).  
 
 ![Utilisation de la matrice EGO ECO avec les micro-forces](MatriceEGOECO_MicroforcesEtCible.jpg "Utilisation de la matrice EGO ECO avec les micro-forces")
 
 
 Vous voulez étirer ce ballon, modifier sa forme, le déplacer vers un autre emplacement, ... ? (un exemple est en rouge sur l'image ci-dessous).  
+
 * Identifier quelles sont les micro-forces les plus proches : ce sont vos prochaines actions.  
 * Identifier les micro-forces à l’opposé, elles agissent comme des freins, comme des ancres. Il faudra sans doute également agir dessus. C’est l'homéostasie du système qui s’exprime.   
 
