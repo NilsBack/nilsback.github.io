@@ -22,6 +22,7 @@ Il y parle de ralentissement économique, ralentissement de la société dans so
 
 J’ai plus envie de parler de ralentissement des personnes au sein d’une équipe, d’un département, un ralentissement pour faire face aux risques psychosociaux (j’ai failli écrire aux violences organisationnelles) que je peux observer.  
 L’Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS) propose un regroupement des facteurs des risques psychosociaux en grandes catégories :  
+  
 * Intensité et temps de travail  
 * Exigences émotionnelles  
 * Manque d’autonomie  
