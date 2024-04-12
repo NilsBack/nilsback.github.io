@@ -9,8 +9,8 @@ tags: ["conversations", "management"]
 
 **Ralentir**.
 
-Cet article a été écrit lors de moments calmes. Calmes d’un point de vue sonore, calmes d’un de point de vue agitation ambiante. Dans des moments à l’abri des réunions et des livrables à fournir, des écrans et des notifications.
-J’aimerais qu’il soit lu dans un moment qui ressemble à celui-ci.
+Cet article a été écrit lors de moments calmes. Calmes d’un point de vue sonore, calmes d’un de point de vue agitation ambiante. Dans des moments à l’abri des réunions et des livrables à fournir, des écrans et des notifications.  
+J’aimerais qu’il soit lu dans un moment qui ressemble à celui-ci.  
 J’aimerais, comme le fait une partition, vous indiquer le tempo et la nuance à adopter : ça pourrait être *adagio* voir *lento* et *piano* ou *pianissimo*. Ca pourrait aussi être les didascalies des pièces de théâtre.
 
 **Ralentir**.
@@ -41,13 +41,13 @@ Est-ce intéressant pour ces personnes ? Comment ça se passe pour les personnes
 Pour moi, l’overdose de réunions est la partie visible d’une course en avant sans fin à du toujours plus, à un manque de priorisation organisationnelle et individuelle (notion de délégation par exemple).
 Et pourquoi pas 4 ou 5 réunions en parallèle puisque ça tient ? Quelle est la limite ? Faut-il atteindre la limite ?
 
-> ## “ *La plupart des hommmes sont pris dans une quête si haletante du plaisir qu’ils passent devant sans en jouir* ”
+> ## “ *La plupart des hommes sont pris dans une quête si haletante du plaisir qu’ils passent devant sans en jouir* ”
 > ## Soren Kierkegaard
 
 Je vois les personnes courir comme des poulets sans tête d’une réunion à une autre (parfois simplement pour faire acte de présence, parce que ne pas être à cette réunion là serait mal vu). Je vois des personnes-autruches garder la tête dans le sable du delivery.  
 
 Dans le film 6e sens, Cole Sear, ce garconnet de huit ans dit “je vois des morts”, moi j’ai parfois l’impression de voir des roues avec des hamsters dedans. Suis-je un hamster ? Un poulet ? Une autruche ?  
-Comment fait le hamster pour sortir de la roue une fois qu’il l’a lancée ? Parce que oui, c’est bien le hamster qu'il la lance. NOUS avons créé des organisations qui font du mal aux personnes.
+Comment fait le hamster pour sortir de la roue une fois qu’il l’a lancée ? Parce que oui, c’est bien le hamster qui la lance. NOUS avons créé des organisations qui font du mal aux personnes.
 
 **Ralentir.** *lento, piano*
 
