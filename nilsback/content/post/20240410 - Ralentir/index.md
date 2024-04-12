@@ -9,8 +9,6 @@ tags: ["conversations", "management"]
 
 **Ralentir**.
 
-J’aimerais, comme le fait une partition, vous indiquer le tempo et la nuance à adopter : ça pourrait être *adagio* voir *lento* et *piano* ou *pianissimo*.
-
 Cet article a été écrit lors de moments calmes. Calmes d’un point de vue sonore, calmes d’un de point de vue agitation ambiante. Dans des moments à l’abri des réunions et des livrables à fournir, des écrans et des notifications.
 J’aimerais qu’il soit lu dans un moment qui ressemble à celui-ci.
 J’aimerais, comme le fait une partition, vous indiquer le tempo et la nuance à adopter : ça pourrait être *adagio* voir *lento* et *piano* ou *pianissimo*. Ca pourrait aussi être les didascalies des pièces de théâtre.
@@ -23,7 +21,7 @@ Parce que j’ai lu "Ralentir ou périr" de Timothée Parrique ? Non. Enfin peut
 Il y parle de ralentissement économique, ralentissement de la société dans son ensemble pour éviter que l’on aille à trop grande vitesse dans un mur.
 
 J’ai plus envie de parler de ralentissement des personnes au sein d’une équipe, d’un département, un ralentissement pour faire face aux risques psychosociaux (j’ai failli écrire aux violences organisationnelles) que je peux observer.  
-L’Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS) propose un regroupement des facteurs des risques psychosociaux en grandes catégories :
+L’Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS) propose un regroupement des facteurs des risques psychosociaux en grandes catégories :  
 * Intensité et temps de travail
 * Exigences émotionnelles
 * Manque d’autonomie
@@ -48,7 +46,7 @@ Et pourquoi pas 4 ou 5 réunions en parallèle puisque ça tient ? Quelle est la
 
 Je vois les personnes courir comme des poulets sans tête d’une réunion à une autre (parfois simplement pour faire acte de présence, parce que ne pas être à cette réunion là serait mal vu). Je vois des personnes-autruches garder la tête dans le sable du delivery.  
 
-Dans le film 6e sens, Cole Sear, ce garconnet de huit ans dit “je vois des morts”, moi j’ai parfois l’impression de voir des roues avec des hamsters dedans. Suis-je un hamster ? Un poulet ? Une autruche ?
+Dans le film 6e sens, Cole Sear, ce garconnet de huit ans dit “je vois des morts”, moi j’ai parfois l’impression de voir des roues avec des hamsters dedans. Suis-je un hamster ? Un poulet ? Une autruche ?  
 Comment fait le hamster pour sortir de la roue une fois qu’il l’a lancée ? Parce que oui, c’est bien le hamster qu'il la lance. NOUS avons créé des organisations qui font du mal aux personnes.
 
 **Ralentir.** *lento, piano*
@@ -73,15 +71,17 @@ Ce serait un peu comme si on disait “écoute ce silence”.
 Un silence de delivery, un silence de processus, de réunion, de pression.
 
 Individuellement :  
+
 * Oser laisser un silence dans une réunion à deux, en groupe.  
 * Essayer de tourner 7 fois la langue dans sa bouche.  
 * Proposer, en démarrage de réunion (visio ou pas), à votre prochaine interlocutrice ou à votre prochain interlocuteur si elle ou il a besoin d'une pause de quelques minutes.  
 * Se motiver et trouver le temps pour méditer.  
 * Avoir le courage et la force de faire le tri et se concentrer sur l’important.  
-* Opter pour quelques réunions en marchant dehors.
-* *(A compléter par plein d'autres idées ;-)*. 
+* Opter pour quelques réunions en marchant dehors.  
+* *(A compléter par plein d'autres idées ;-)*.  
 
 Collectivement :  
+
 * Envisager de travailler les soft skills de façon récurrente avec une communauté de pratiques (sur les horaires de travail, pas le soir, pas le midi, pas le weekend).  
 * Imaginer de travailler les hard skills de façon récurrente avec un mentor (idem).  
 * Pourquoi pas organiser une semaine de respiration pour toute une équipe, un département.  
