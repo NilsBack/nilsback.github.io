@@ -52,7 +52,7 @@ Nous le verrons : aucune zone n’est mauvaise, n’est bonne, elles possèdent 
 J’ai choisi de présenter ces zones en mentionnant justement ces points faibles, ces forts et la notion d’énergie.
 J’aurai pu pour chacune des types d’organisations parler de management, de finalité, des valeurs, … Le livre [le mix organisation](https://www.eyrolles.com/Entreprise/Livre/le-mix-organisation-9782212559989/) (de Jacques Jochem) le fait très très bien.
 
-Avant de parcourir les 4 types d’organisations du modèle, je précise qu’une entreprise réelle ne se résume très rarement qu’à un seul type, que certains de ces composants (le livre parle de “micro-forces”) sont d’un certain type, d’autres composants sont d’un autre type. Tous les types ne sont peut-être pas présents dans une entreprise à une date donnée.
+Avant de parcourir les 4 types d’organisations du modèle, je précise qu’il est très rare qu'une entreprise réelle se résume à un seul type : certains de ces composants (le livre parle de “micro-forces”) sont d’un certain type, d’autres composants sont d’un autre type. Tous les types ne sont peut-être pas présents dans une entreprise à une date donnée.
 
 # Organisation Mécaniste
 
@@ -100,7 +100,7 @@ Je m'essaie à la narration de processus fictifs de recrutement en utilisant la 
 * Mécaniste : Suite à une annonce publiée, l’entreprise reçoit des candidatures sous forme de CV. Un logiciel analyse les CVs et les classe par pertinence. La personne dont le CV apparaît en premier est rencontrée.  
 * Tribal : La personne pressentie pour le poste rencontre tout ou une partie de l’entreprise lors d’un événement interne, elle participe à un afterwork. Le dernier mot revient au “chef de la tribu”.  
 * Transactionnel : Un.e commercial.e détecte une opportunité commerciale, cette opportunité nécessite le recrutement d’une personne. Cette information n’est pas partagée au reste de l’équipe commerciale. Le ou la commercial.e mène des actions individuelles : regarde les derniers CVs reçus, appelle, rencontre des personnes.  
-* Holistique : La décision de recruter une nouvelle personne est prise en groupe. La tâche de sélectionner le CV revient à une personne soit par vote du groupe soit parce que cela fait partie de ces responsabilités. Cette personne propose 3 CVs au groupe. Il a été expérimenté plusieurs modes de recrutements. Le groupe propose le mode de recrutement en fonction de ce qui a été testé, des profils personnes à rencontrer et du poste.
+* Holistique : La décision de recruter une nouvelle personne est prise en groupe. La tâche de sélectionner le CV revient à une personne soit par vote du groupe soit parce que cela fait partie de ses responsabilités. Cette personne propose 3 CVs au groupe. Il a été expérimenté plusieurs modes de recrutements. Le groupe propose le mode de recrutement en fonction de ce qui a été testé, des profils personnes à rencontrer et du poste.
 Les personnes participent notamment à un moment de travail avec l’équipe. Un client participe comme observateur au recrutement. La décision revient à une groupe de personnes dont un des mandats est de décider des recrutements.
 
 # Utilisation
