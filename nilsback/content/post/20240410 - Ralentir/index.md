@@ -22,7 +22,7 @@ Il y parle de ralentissement économique, ralentissement de la société dans so
 
 J’ai plus envie de parler de ralentissement des personnes au sein d’une équipe, d’un département, un ralentissement pour faire face aux risques psychosociaux (j’ai failli écrire aux violences organisationnelles) que je peux observer.  
 L’Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS) propose un regroupement des facteurs des risques psychosociaux en grandes catégories :  
-  
+
 * Intensité et temps de travail  
 * Exigences émotionnelles  
 * Manque d’autonomie  
@@ -124,5 +124,6 @@ Ralentir est très bien pour l’habitabilité de notre monde, à une autre éch
 
 # Bibliographie
 * La page de l'INRS sur les [facteurs des RPS](https://www.inrs.fr/risques/psychosociaux/facteurs-risques.html)
+* L'éloge de l'ennui par Gaël Faye [en vidéo](https://www.brut.media/fr/entertainment/l-eloge-de-l-ennui-par-gael-faye-8ec5f32e-e603-4bb1-926f-85cec86f5d3b)
 
 
