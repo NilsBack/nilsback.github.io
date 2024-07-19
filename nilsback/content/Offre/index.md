@@ -11,12 +11,12 @@ menu: main
 
 # En plus de mots
 
-Pour les (dans l'ordre)
+Pour les (dans l'ordre)  
 1. Associations à but non lucratif et œuvrant pour la santé de la biosphère (impacts environnementaux, sociétaux et d'inclusivité).  
 2. Associations à but non lucratif.  
 3. TPE œuvrant pour la santé de la biosphère.  
 
-Je propose de :
+Je propose de :  
 
 - **Faciliter vos réunions** et vos ateliers pour que vous puissiez vous concentrer sur le fond et non sur la forme.
 
