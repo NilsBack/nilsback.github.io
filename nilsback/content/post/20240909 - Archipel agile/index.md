@@ -2,7 +2,6 @@
 title: "L’archipel agile"
 date: 2024-09-09T10:08:04+02:00
 draft: false
-featured_image: '/images/Ralentir.avif'
 author : Nils
 tags: ["conversations", "coaching", "agile"]
 ---
