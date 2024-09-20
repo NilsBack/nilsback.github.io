@@ -60,11 +60,12 @@ Je précise que la non-perfection n'empêche pas la rercherche d'excellence. -->
 
 # Bibliographie 
 
-Les podcasts de l'émission *Sous le soleil de Platon* :   
-- [L'épisode](https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-15-juillet-2022-2138294) avec Alexis Michalik  
-#PossibiliteDeLEchec #Plaisir #Frustration #Rythme #CadreDeJeu
-- [L'épisode](https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-11-aout-2023-8341657) avec Fabien Galthié  
-#Co-Construction #RespectDuCadre #Emotions #Vision #Diversité #Confiance #Atouts
+Les podcasts de l'émission *Sous le soleil de Platon* :  
+  
+* [L'épisode](https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-15-juillet-2022-2138294) avec Alexis Michalik  
+#PossibiliteDeLEchec #Plaisir #Frustration #Rythme #CadreDeJeu  
+* [L'épisode](https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-11-aout-2023-8341657) avec Fabien Galthié  
+#Co-Construction #RespectDuCadre #Emotions #Vision #Diversité #Confiance #Atouts  
 
 
 *Crédits Photo : [Jackalope West](https://unsplash.com/fr/@jackalope_west)*
