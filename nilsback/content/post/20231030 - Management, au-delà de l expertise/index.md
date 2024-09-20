@@ -26,15 +26,17 @@ Je précise que mon interlocuteur est un développeur dans une entreprise Produi
 
 En l'écoutant, je me dis qu'il lie le rôle de manager et avec celui de l'expert de son domaine. Je le lui partage. Il acquiesce, lève les yeux au ciel, songeur, comprend qu'il pourrait y avoir d'autres alternatives. Je ne lui jette la pierre, ce modèle est omniprésent dans le monde du travail que je vois.
 
-Ce modèle a des avantages : 
-- celui d'avoir un·e mentor à proximité, à portée d'échanges, d'avoir un appui sur son expertise, un appui rapide et efficace.
-- celui d'avoir accès facilement aux informations de son domaine d'expertise.
+Ce modèle a des avantages :  
 
-Il a des inconvénients :
+- celui d'avoir un·e mentor à proximité, à portée d'échanges, d'avoir un appui sur son expertise, un appui rapide et efficace.  
+- celui d'avoir accès facilement aux informations de son domaine d'expertise.  
+
+Il a des inconvénients :  
+
 - le risque de trop travailler l'expertise les personnes,  
-- le risque de ne pas développer de compétences plus transverses (ce qui peut être utile à l'entreprise), je pense, par exemple, à la gestion de conflit, à la facilitation.
-- le risque de ne pas développer les compétences de type *soft skills* : l'écoute active, la capacité à demander des feedbacks, à en formuler y compris des compliqués, y compris des positifs (pas si simple de donner un vrai bon feedback positif), la capacité à écouter ses émotions, celles des autres, de détecter ses besoins, ses zones de stress, ...
-- le risque d'avoir moins d'informations sur des sujets autres que son expertise (compétences transverses, une expertise différente de la sienne et qui pourrait être bénéfique, ...)
+- le risque de ne pas développer de compétences plus transverses (ce qui peut être utile à l'entreprise), je pense, par exemple, à la gestion de conflit, à la facilitation.  
+- le risque de ne pas développer les compétences de type *soft skills* : l'écoute active, la capacité à demander des feedbacks, à en formuler y compris des compliqués, y compris des positifs (pas si simple de donner un vrai bon feedback positif), la capacité à écouter ses émotions, celles des autres, de détecter ses besoins, ses zones de stress, ...  
+- le risque d'avoir moins d'informations sur des sujets autres que son expertise (compétences transverses, une expertise différente de la sienne et qui pourrait être bénéfique, ...)  
 
 (Les listes des inconvénients et des avantages ne sont sans doute pas exhaustives.)
 
@@ -43,11 +45,12 @@ Dans le cadre *Choose your boss*, j'ai, à chaque fois, demandé les motivations
 Je trouvais, et je trouve toujours, que ce cadre induit cela, induit cette réaction, cette posture, au contraire du cadre qui définit le ou la manager par défaut, par automatisme : parce qu'une personne est dans l'équipe de ce manager ou parce que cette personne est la responsable des *[à compléter avec votre rôle]*)
 
 Voici quelques réponses (qui ne parlent pas d'expertise technique) que j'ai pu recevoir quand j'ai posé mes questions :  
-- *"Ton appétence pour faire grandir les autres"*
-- *"Ta posture"*
-- *"Avoir un manager qui m'aide à évoluer dans la structure (passé manager, etc)."*
-- *"Avoir un manager avec qui je m'entends bien globalement et avec qui je peux avoir des discussions enrichissantes."*
-- *"Tu sais être honnête en douceur et c'est important pour moi pour progresser"*
+
+- *"Ton appétence pour faire grandir les autres"*  
+- *"Ta posture"*  
+- *"Avoir un manager qui m'aide à évoluer dans la structure (passé manager, etc)."*  
+- *"Avoir un manager avec qui je m'entends bien globalement et avec qui je peux avoir des discussions enrichissantes."*  
+- *"Tu sais être honnête en douceur et c'est important pour moi pour progresser"*  
 
 Je ne demande bien sûr pas cela pour me faire cirer les pompes, même si des réponses peuvent flatter l'ego, mais pour être en capacité de savoir si je vais être la bonne personne ou non pour manager ce collègue.
 

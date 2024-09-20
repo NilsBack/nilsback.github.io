@@ -14,9 +14,11 @@ Je pense par exemple à [cet article](https://www.le-lab-de-pauline.com/blog/pas
 
 Le titre de son article est *"Passer d'un groupe à une équipe avec le modèle de Tuckman"*... Passer d'un groupe à une équipe...  
 Qu'est-ce qui différencie une équipe d'un groupe d'individus, on pourrait dire une somme d'individus ?  
+
 **Qu'est-ce qu'une belle équipe ?**
 
-Charles Pépin, philosophe et chroniqueur sur France Inter, anime tous les jours de l'été une émission intitulée *Sous le soleil de Platon*, dans laquelle il aborde un sujet, une question en présence d'un.e invité.e. Lors de deux émissions, ils ont essayé de répondre à cette question *Qu'est-ce une belle équipe ?*. Il a reçu tour à tour Alexis Michalik, *"acteur, dramaturge, metteur en scène, scénariste, réalisateur et écrivain"* d'après Wikipedia, et Fabien Galthié, sélectionneur du XV de France depuis 2019.
+Charles Pépin, philosophe et chroniqueur sur France Inter, anime tous les jours de l'été une émission intitulée *Sous le soleil de Platon*, dans laquelle il aborde un sujet, une question en présence d'un.e invité.e. Lors de deux émissions, ils ont essayé de répondre à cette question *Qu'est-ce une belle équipe ?*.  
+Il a reçu tour à tour Alexis Michalik, *"acteur, dramaturge, metteur en scène, scénariste, réalisateur et écrivain"* d'après Wikipedia, et Fabien Galthié, sélectionneur du XV de France depuis 2019.
 
 Alors quoi de neuf pour moi dans ces 2 heures d'émission, de réflexion ?
 

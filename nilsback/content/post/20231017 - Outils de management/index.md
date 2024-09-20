@@ -46,11 +46,12 @@ Parfois, une discussion fait émerger des formats plus spécifiques.
 ### Feedback
 
 Durant l’année, il a parfois fallu se préparer à donner des feedbacks compliqués, j’ai proposé le format OSBD illustré sous cette forme :  
-- O pour Observations : *Lorsque je vois, entends, observe…*
-- S pour Sentiment : *Je me sens…*
-- B pour Besoins : *... parce que j’ai besoin de …*
-- D pour Demande : *Du coup, est-ce que tu serais d’accord pour …*
 
+- O pour Observations : *Lorsque je vois, entends, observe…*  
+- S pour Sentiment : *Je me sens…*  
+- B pour Besoins : *... parce que j’ai besoin de …*  
+- D pour Demande : *Du coup, est-ce que tu serais d’accord pour …*  
+  
 ![Format Miro pour construire un feedback](FormatFeedbackOSBD.png "Format Miro pour construire un feedback")
 
 Vous comprenez aisément que les vraies prises de notes aient été effacées et remplacées par du *lorem ipsum*.
@@ -70,6 +71,7 @@ Pour sortir de l’opérationnel et pour aider les personnes à identifier les f
 
 2 axes : les compétences et les appétences  
 4 zones :  
+
 - Ce que j'aime faire et que je fais bien : les talents  
 - Ce que j'aime faire et que je ne fais pas bien : les potentiels  
 - Ce que je n'aime pas faire et que je fais bien : les expertises  
