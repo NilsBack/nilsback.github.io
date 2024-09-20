@@ -26,10 +26,10 @@ Alors quoi de neuf pour moi dans ces 2 heures d'émission, de réflexion ?
 
 Je connaissais le concept d'addition, ou plutôt de dépassement de l'addition, qu'une équipe c'est plus que la simple somme des talents de chacun... Dans un  récent [post LinkedIn](https://www.linkedin.com/posts/nilslesieur_equipe-etreensemble-ego-activity-7088071429224583168-ZtG7?utm_source=share&utm_medium=member_desktop), j'avais retranscrit l'édito écrit par Charles Pépin pour l'émission avec Alexis Michalik. Il y disait notamment :
 
-> *Pour que l’équipe soit belle, il faut parfois un peu de **soustraction**, **moins de** stars, moins d’ego, moins de certitudes. Pour que l’ « être ensemble » puisse exister, il faut lui donner sa chance. Si chaque être individuel s’accroche à son savoir, à son identité, à sa certitude, à sa compétence, si chaque être individuel est parfaitement gonflé de lui-même, fier de lui et sûr de lui alors il n’y a tout bonnement aucun espace pour être ensemble.*
+> Pour que l’équipe soit belle, il faut parfois un peu de **soustraction**, **moins de** stars, moins d’ego, moins de certitudes. Pour que l’ « être ensemble » puisse exister, il faut lui donner sa chance. Si chaque être individuel s’accroche à son savoir, à son identité, à sa certitude, à sa compétence, si chaque être individuel est parfaitement gonflé de lui-même, fier de lui et sûr de lui alors il n’y a tout bonnement aucun espace pour être ensemble.
 >
-> *L’ « être ensemble » est un dépassement des êtres individuels : **dépassement par en-dessous**, dans l’humilité, dans l’écoute, dépassement par au-dessus, dans la poursuite d’un horizon, d’un rêve commun.
-Au fond, l’équipe est belle quand nous ne sommes pas vraiment nous-mêmes, quand nous sommes à la fois **un peu moins** que nous-mêmes et un peu plus que nous-mêmes.*  
+> L’ « être ensemble » est un dépassement des êtres individuels : **dépassement par en-dessous**, dans l’humilité, dans l’écoute, dépassement par au-dessus, dans la poursuite d’un horizon, d’un rêve commun.
+Au fond, l’équipe est belle quand nous ne sommes pas vraiment nous-mêmes, quand nous sommes à la fois **un peu moins** que nous-mêmes et un peu plus que nous-mêmes.  
 >
 > Charles Pépin - Sous le soleil de Platon
 

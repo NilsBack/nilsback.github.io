@@ -46,11 +46,11 @@ Parfois, une discussion fait émerger des formats plus spécifiques.
 ### Feedback
 
 Durant l’année, il a parfois fallu se préparer à donner des feedbacks compliqués, j’ai proposé le format OSBD illustré sous cette forme :  
-
-- O pour Observations : *Lorsque je vois, entends, observe…*  
-- S pour Sentiment : *Je me sens…*  
-- B pour Besoins : *... parce que j’ai besoin de …*  
-- D pour Demande : *Du coup, est-ce que tu serais d’accord pour …*  
+  
+- O pour Observations : Lorsque je vois, entends, observe…  
+- S pour Sentiment : Je me sens…  
+- B pour Besoins : ... parce que j’ai besoin de …  
+- D pour Demande : Du coup, est-ce que tu serais d’accord pour …  
   
 ![Format Miro pour construire un feedback](FormatFeedbackOSBD.png "Format Miro pour construire un feedback")
 
