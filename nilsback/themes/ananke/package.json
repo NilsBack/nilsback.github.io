@@ -1,26 +1,61 @@
 {
-  "name": "gohugo-default-theme",
-  "version": "2.6.1",
-  "description": "Base Theme to start Hugo Sites",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theNewDynamic/thenewdynamic.com.git"
-  },
-  "scripts": {
-    "version": "auto-changelog -p --template keepachangelog --commit-limit 0 && git add CHANGELOG.md"
-  },
+  "name": "@thenewdynamic/gohugo-theme-ananke",
+  "description": "Ananke: A theme for Hugo Sites",
+  "version": "2.10.0",
+  "license": "MIT",
+  "repository": "thenewdynamic/gohugo-theme-ananke",
+  "author": "Bud Parr (https://github.com/budparr)",
+  "maintainers": [
+    {
+      "name": "Patrick Kollitsch",
+      "url": "https://github.com/davidsneighbour"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Regis Philibert",
+      "url": "https://github.com/regisphilibert"
+    },
+    {
+      "name": "Patrick Kollitsch",
+      "url": "https://github.com/davidsneighbour"
+    }
+  ],
+  "bugs": "https://github.com/theNewDynamic/gohugo-theme-ananke/issues",
+  "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
   "keywords": [
     "hugo",
-    "gohugo"
+    "gohugo",
+    "hugo-theme",
+    "gohugo-theme",
+    "hugo-module",
+    "gohugo-module"
   ],
-  "author": "budparr",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/theNewDynamic/thenewdynamic.com/issues"
+  "dependencies": {
+    "cssnano": "7.0.6",
+    "postcss": "8.4.47",
+    "postcss-preset-env": "10.0.7",
+    "tachyons": "4.12.0"
   },
-  "homepage": "https://github.com/theNewDynamic/thenewdynamic.com#readme",
   "devDependencies": {
-    "auto-changelog": "^1.16.1"
+    "@davidsneighbour/release-config": "2024.4.5",
+    "@davidsneighbour/tools": "2024.4.5"
+  },
+  "scripts": {
+    "deploy": "cd exampleSite; hugo;",
+    "release": "wireit",
+    "release:pre": "wireit",
+    "server": "wireit"
+  },
+  "wireit": {
+    "release": {
+      "command": "commit-and-tag-version --sign -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" -- --no-verify"
+    },
+    "release:pre": {
+      "command": "commit-and-tag-version --sign -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --prerelease prerelease -- --no-verify"
+    },
+    "server": {
+      "command": "cd exampleSite; rm -rf public; hugo server -D -E -F --disableFastRender --verbose --logLevel debug --debug --tlsAuto --panicOnWarning"
+    }
   }
 }

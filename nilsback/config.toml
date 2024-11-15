@@ -5,6 +5,7 @@ theme = "ananke"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
+featured_image = "/images/Paris_BordsDeSeine.jpg"
 
 [params]
   linkedin = "https://www.linkedin.com/in/nilslesieur/"
