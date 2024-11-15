@@ -7,7 +7,8 @@ menu:
 
 # Conférences
 
-**2024** - Agile Tour Rennes - **Talk en cours de construction** - Parcours sociodynamique dans les modèles organisationnels.  
+**2024** - Agile Tour Bordeaux - [Ralentir](/supports/Ralentir.pdf)  
+**2024** - Agile Tour Rennes - [Parcours sociodynamique dans les modèles organisationnels](/supports/Panorama_sociodynamique_des_modèles_organisationnels.pdf)  
 **2024** - Demain c'est maintenant - [Les 8 R, une réflexion sur l'habitabilité du monde](https://miro.com/app/board/uXjVMADTdOk=/?share_link_id=990352826428)
 ___
 **2022** - Agile Tour Lausanne - [Host Leadership](/supports/HostLeadership_AgileTourLausanne_2022.pdf) : présentation et expérimentations (support revu et corrigé après les sessions de Rennes et de Lille)  
