@@ -8,7 +8,7 @@ menu:
 # Conférences
 
 **2024** - Agile Tour Bordeaux - [Ralentir](/supports/Ralentir.pdf)  
-**2024** - Agile Tour Rennes - [Parcours sociodynamique dans les modèles organisationnels](/supports/Panorama_sociodynamique_des_modèles_organisationnels.pdf)  
+**2024** - Agile Tour Rennes - [Parcours sociodynamique dans les modèles organisationnels](/supports/Panorama_sociodynamique_des_modeles_organisationnels.pdf)  
 **2024** - Demain c'est maintenant - [Les 8 R, une réflexion sur l'habitabilité du monde](https://miro.com/app/board/uXjVMADTdOk=/?share_link_id=990352826428)
 ___
 **2022** - Agile Tour Lausanne - [Host Leadership](/supports/HostLeadership_AgileTourLausanne_2022.pdf) : présentation et expérimentations (support revu et corrigé après les sessions de Rennes et de Lille)  
@@ -41,7 +41,7 @@ ___
 
 # Livres
 **2020** - Traduction française de l'**ebook Agile Fluency** : en [.pdf](https://www.agilefluency.org/perch/resources/downloads/agile-fluency-french-version.pdf) ou en [.epub](https://www.agilefluency.org/perch/resources/downloads/agile-fluency-french-version.epub).
-Merci à Maxime Lecoq, Jonathan Litty, Yannick Grenzinger, Pablo Pernot, Fleur Saillofest, Tiphanie Vinet et Sara Dufour pour leurs relecture.
+Merci à Maxime Lecoq, Jonathan Litty, Yannick Grenzinger, Pablo Pernot, Fleur Saillofest, Tiphanie Vinet et Sara Dufour pour leurs relectures.
 
 
 # Podcasts
