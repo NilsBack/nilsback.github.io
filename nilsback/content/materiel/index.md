@@ -40,7 +40,7 @@ ___
 
 
 # Livres
-**2020** - Traduction française de l'**ebook Agile Fluency** : en [.pdf](https://www.agilefluency.org/perch/resources/downloads/agile-fluency-french-version.pdf) ou en [.epub](https://www.agilefluency.org/perch/resources/downloads/agile-fluency-french-version.epub).
+**2020** - Traduction française de l'**ebook Agile Fluency** : en [.pdf](/supports/AGILEFLUENCY-FrenchVersionV2.pdf) ou en [.epub](/supports/AGILEFLUENCY-FrenchVersionV2.epub).
 Merci à Maxime Lecoq, Jonathan Litty, Yannick Grenzinger, Pablo Pernot, Fleur Saillofest, Tiphanie Vinet et Sara Dufour pour leurs relectures.
 
 

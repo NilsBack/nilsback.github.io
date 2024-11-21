@@ -47,12 +47,12 @@ Ces cartes sont des représentations, des propositions de lectures de situations
 
 Nous commençons mais voilà ce que nous avons en tête quand nous parlons de modèles, de grilles de lectures :  
 
-- Cynefin (les [contextes](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-2/7-cynefin.-les-contextes./) et les dynamiques) 
-- La pyramide de Dilts  
-- La spirale dynamique 
-- Le Process Communication Model ou PCM   
-- Agile fluency  
-- Le modèle de Tuckman  
+- Cynefin (les [contextes](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-2/7-cynefin.-les-contextes./) et les [dynamiques](https://www.nilslesieur.fr/2022/05/cynefin.-les-dynamiques/))  
+- La [pyramide de Dilts](https://www.nilslesieur.fr/2022/02/les-grilles-de-lecture-3/7-la-pyramide-de-dilts/)  
+- Le [Process Communication Model](https://www.nilslesieur.fr/2022/02/les-grilles-de-lecture-4/7-process-communication-model/) ou PCM   
+- [Agile fluency](https://www.nilslesieur.fr/2022/05/les-grilles-de-lecture-5/7-agile-fluency/)  
+- La [spirale dynamique](https://www.nilslesieur.fr/2022/07/les-grilles-de-lecture-6/7-spirale-dynamique/)  
+- Le [diagramme de Nemoto](https://www.nilslesieur.fr/2022/12/les-grilles-de-lecture-7/7-le-diagramme-de-nemoto/)  
 
 A bientôt pour les futurs articles.
 
