@@ -1,6 +1,7 @@
 ---
 title: "Feedbacks et systémie"
 date: 2024-11-15T10:08:04+02:00
+featured_image: '/images/Girafe.avif'
 draft: false
 author : Nils
 tags: ["conversations", "conversations cruciales"]
@@ -11,13 +12,13 @@ tags: ["conversations", "conversations cruciales"]
 
 Cette courte phrase, maintes fois entendue, n’était pas prononcée avec une intonation de jugement genre *“Tu lui as dit ? Connard”*. Non. Plutôt énoncée avec un mélange de douceur et de challenge, d’attention et de volonté de ne pas rester dans l’émotion ou dans une impasse.
 
-J’entendais cette phrase lorsque j’allais voir Pauline Garric en lui parlant d’une situation impliquant un de mes clients, collègues ou amis. Ca pouvait être une situation que je n’aimais pas ou au contraire quelque chose que je trouvais génial. Je l’entendais également lors d’intervisions que nous faisions entre coaches et dans lesquelles nous parlions de situations en clientèle ou internes à démêler.
+J’entendais cette phrase lorsque j’allais voir Pauline Garric en lui parlant d’une situation impliquant un de mes clientes, collègues ou amies. Ca pouvait être une situation que je n’aimais pas ou au contraire quelque chose que je trouvais génial. Je l’entendais également lors d’intervisions que nous faisions entre coaches et dans lesquelles nous parlions de situations en clientèle ou internes à démêler.
 
 Cette phrase est quasiment devenue un refrain que notre groupe entonnait régulièrement. Elle avait ce pouvoir de faire réfléchir rapidement l’interlocuteur, de lui suggérer une action simple (simple ne voulant pas dire simpliste), une action où parfois la pré-action était la partie la plus complexe.
 
 
 # Muscler sa pratique
-Maintes fois, j’ai écouté cette phrase, j’ai obéi en allant dire aux personnes ce que je venais dire. D’autres fois, je ne l’ai pas fait.
+Maintes fois, j’ai écouté cette phrase, j’ai obéi en allant dire aux personnes ce que j'avais à dire. D’autres fois, je ne l’ai pas fait.
 
 Il m’a fallu apprendre à dire les choses et même apprendre à oser dire les choses : j’ai lu “Conversations cruciales” (un livre incroyable), j’ai répété 1.000 fois dans ma tête O… S… B… D…
 
@@ -45,18 +46,23 @@ Je manquais de vocabulaire pour décrire mes besoins et idem j’ai découvert d
 # C’est bien de dire ?
 Dans le livre “Comment réussir à travailler avec presque tout le monde ?”, Lucie Gill nous présente, à travers plein de situations récoltées lors de ses coachings, des exemples de boucles de systémie.
 
-Ses exemples illustrent plein de pratiques, attitudes, postures, actions qui entretiennent ou amplifient des situations inconfortables (parfois douloureuses) pour des personnes. Elle nous explique que ces personnes font partie du système et qu’elles participent à leur façon à entretenir ou à amplifier ces situations.
+Ses exemples illustrent plein de pratiques, attitudes, postures, actions qui entretiennent ou amplifient des situations inconfortables (parfois douloureuses) pour des personnes. Elle nous explique que ces personnes font partie du système et qu’elles participent à leur façon à entretenir ou à amplifier ces situations.  
+J'ai donc, moi aussi, entretenu ou amplifié des situtations.  
 
-Alors, maintenant je dis, je lui dis, beaucoup plus souvent qu’avant et surtout avec beaucoup plus d’outils et de confiance.
+Alors, maintenant je dis.  
 
-   
+**Je lui dis.**   
+  
+Beaucoup plus souvent qu’avant et surtout avec beaucoup plus d’outils et de confiance.    
 
 **Et toi, tu lui as dit ?**
 
+![Girafe](/images/Girafe.avif "Girafe") 
+  
+  
+___
 
-
-
-# Bibliographie et conseils de lecture
+# Bibliographie ou conseils de lecture
   
 - Le livre [Comment réussir à travailler avec presque tout le monde ?](https://www.editions-retz.com/sante/psycho/comment-reussir-a-travailler-avec-presque-tout-le-monde-9782725625911.html)
 - Le livre [Conversations cruciales](https://www.eyrolles.com/Entreprise/Livre/conversations-cruciales-9782958453602/)   
