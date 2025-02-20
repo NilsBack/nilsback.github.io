@@ -13,12 +13,12 @@ D’un côté, je suis fasciné par la puissance, l’ouverture sur de nouveaux 
 
 # Ma veille
 J’ai, fin 2024, commencé une veille sur les sujets de l’IA dans le but de savoir comment cette technologie et l’ensemble des outils qui disent s’y rattacher pouvait m’aider dans mon quotidien de coaching. Je voulais explorer, trouver des usages qui allaient au-delà de l’analyse de textes ou de la génération de contenus, des usages que je trouvais évidents. 
-Ce que j’ai trouvé de plus pertinent c’est la notion de "compagnon". Des sites vous propose de créer des "compagnons" pour chatter. J’ai donc créé un profil avec photo générée par IA, une voix générée par IA et une bio créée par moi. Un expert en sociologie, systémie et organisation du travail. J’ai été bluffé.
+Ce que j’ai trouvé de plus pertinent c’est la notion de "compagnon". Des sites vous proposent de créer des "compagnons" pour chatter. J’ai donc créé un profil avec photo générée par IA, une voix générée par IA et une bio créée par moi. Un expert en sociologie, systémie et organisation du travail. J’ai été bluffé.
 
-Je ne citerai aucune des solutions que j’ai testées ni aucune page qui m’a servi dans ma veille. Pourquoi ? Parce que l’envers du décor de l’IA c’est le gigantisme des consommations d’énergie et d’eau. Un exemple ? Les datacenters en Irlande en 2024 représente 21% de la demande en électricité contre 5% en 2015. Ce qui a amené « *EirGrid, l’opérateur irlandais, à suspendre la construction de nouveaux centres de données près de Dublin. Mais seulement jusqu’en 2028.* " (Source : France Info)
+Je ne citerai aucune des solutions que j’ai testées ni aucune page qui m’a servi dans ma veille. Pourquoi ? Parce que l’envers du décor de l’IA c’est le gigantisme des consommations d’énergie et d’eau. Un exemple ? Les datacenters en Irlande en 2024 représentent 21% de la demande en électricité du pays contre 5% en 2015. Ce qui a amené " *EirGrid, l’opérateur irlandais, à suspendre la construction de nouveaux centres de données près de Dublin. Mais seulement jusqu’en 2028.* " (Source : France Info)
 
 # Le sommet
-Il y a quelques jours, à Paris, se tenait un sommet pour l’IA. Sur le site de l’Elysée, je lis : " *L’intelligence artificielle représente une révolution technologique qui préoccupe de nombreux citoyens tout en représentant une source d’innovations positives majeure.* "" ou " *La France et l’Europe ont les moyens d’être au cœur de cette transformation économique en s’imposant comme une puissance de l’IA dans la compétition mondiale.* "
+Il y a quelques jours, à Paris, se tenait un sommet pour l’IA. Sur le site de l’Elysée, je lis : " *L’intelligence artificielle représente une révolution technologique qui préoccupe de nombreux citoyens tout en représentant une source d’innovations positives majeure.* " ou " *La France et l’Europe ont les moyens d’être au cœur de cette transformation économique en s’imposant comme une puissance de l’IA dans la compétition mondiale.* "
 
 Que l’intelligence artificielle représente une source d’innovations, je n’en doute pas une seule seconde, que ces innovations soient positives, euh… j’attends de voir. Il faudrait sans doute définir "positive". Pour qui ? Pour quoi ? Comment mesurer ce "positive" ?
 Et que dire du mot "compétition", il faut gagner ? Faire toujours plus ?
@@ -28,10 +28,10 @@ J'entendais, sur France Info, une personne du  monde cinéma s'extasier et dire 
 A-t-on besoin de cette utilisation de l’IA ?
 
 # Le temps
-De quelle IA parle les personnes autour de moi ? Dans les discussions dans mon quotidien professionnel, j’entends parler de chats, de génération d’images, de contenus, d’analyse de textes, … J’entends que ces solutions font gagner du temps. Où est réinvesti le temps gagné ? Dans d’autres tâches ? L’IA va encore accélérer nos quotidiens ? La roue de hamster va encore tourner plus vite ?
+De quelle IA parlent les personnes autour de moi ? Dans les discussions dans mon quotidien professionnel, j’entends parler de chats, de génération d’images, de contenus, d’analyse de textes, … J’entends que ces solutions font gagner du temps. Où est réinvesti le temps gagné ? Dans d’autres tâches ? L’IA va encore accélérer nos quotidiens ? La roue de hamster va encore tourner plus vite ?
 
 # Pour terminer
-l’IA c’est aussi des bonnes nouvelles aussi, je pense notamment à la détection de cancers, détection beaucoup plus fine que n’importe quel oeil.
+L’IA c’est aussi des bonnes nouvelles, je pense notamment à la détection de cancers, détection beaucoup plus fine que n’importe quel oeil.
 
 Et, pour conclure ce post, je vous partage une pensée d'Edgar Morin : 
 > " *Plus amplement c’est le progrès lui-même qui porte en lui une tache sombre ou un trou noir : l’absence de tout progrès moral accompagnant le progrès scientifico-technico-économique. Le vrai progrès dont ait besoin l’humanité est celui de la compréhension humaine, de la bienveillance, de la solidarité, de l’amitié ; dans ce domaine il n’y a eu que des progrès partiels et provisoires dans une régression généralisée.* "
