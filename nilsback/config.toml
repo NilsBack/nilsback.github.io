@@ -4,6 +4,7 @@ title = "nilslesieur.fr"
 theme = "ananke"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
+Paginate = 9
 enableRobotsTXT = true
 
 [params]
@@ -19,7 +20,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   
   show_reading_time = true
-  recent_post_number = 2
+  recent_post_number = 3
   
 [Permalinks]
   post = "/:year/:month/:title"
