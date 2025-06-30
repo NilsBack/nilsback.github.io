@@ -4,7 +4,7 @@ title = "nilslesieur.fr"
 theme = "ananke"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 9
+Pagination.pagerSize = 9
 enableRobotsTXT = true
 
 [params]
