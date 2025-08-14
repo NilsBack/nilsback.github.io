@@ -4,7 +4,7 @@ date: 2023-06-19T10:08:04+02:00
 draft: false
 --featured_image: '/images/RepurposedAppleiMacCatBed.jpg'
 author :  Nils
-tags: ["mentoring"]
+tags: ["mentoring", "formation", "livres"]
 ---
 
 

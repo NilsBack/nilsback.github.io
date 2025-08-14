@@ -4,7 +4,7 @@ date: 2024-02-26T10:08:04+02:00
 draft: false
 featured_image: '/images/lightpainting.jpg'
 author : Nils
-tags: ["management", "équipe", "team", "entraide", "communauté", "émergence"]
+tags: ["management", "équipe", "communauté", "émergence", "organisation"]
 ---
 
 Je suis entre 2 modules de formation animée et organisée par [l’Institut des futurs souhaitables](https://www.futurs-souhaitables.org/), la formation s’intitule [Organisations souhaitables](https://communaute.futurs-souhaitables.org/page/la-focuslab-organisations-souhaitables).

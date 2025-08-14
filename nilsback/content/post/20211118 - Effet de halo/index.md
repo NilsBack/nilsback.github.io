@@ -3,7 +3,7 @@ title: "Effet de halo"
 date: 2021-11-19T12:21:04+02:00
 draft: false
 author : Nils
-tags: ["effet de halo","rétrospective", "réunion", "animation", "facilitation"]
+tags: ["effet de halo","rétrospective", "facilitation"]
 ---
 
 Je mets enfin des mots sur une sensation que j'avais et que je m'exerçais à combattre lors de mes dernières formations et animations d'ateliers.

@@ -3,7 +3,7 @@ title: "Host Leadership en mode workshop"
 date: 2021-06-22T10:40:04+02:00
 draft: false
 author : Nils
-tags: ["Host Leadership", "Solution focus", "Atelier"]
+tags: ["Host Leadership", "Solution focus", "Atelier", "facilitation"]
 ---
 
 

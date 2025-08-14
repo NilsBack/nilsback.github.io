@@ -4,7 +4,7 @@ date: 2022-12-29T10:08:04+02:00
 draft: false
 featured_image: '/images/AdaptationDiagrammeNemotoParOCTO.jpg'
 author :  Nils
-tags: ["grille de lecture", "modèle", "diagramme de Nemoto"]
+tags: ["grille de lecture", "modèle", "diagramme de Nemoto", "management", "organisation"]
 ---
 
 *Note : Cet article fait partie d'une série d'articles sur les grilles de lectures ou modèles. Vous pouvez retrouver l'article d'introduction de cette série [ici](../introduction-aux-grilles-de-lecture/).*

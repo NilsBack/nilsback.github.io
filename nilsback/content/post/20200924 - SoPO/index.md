@@ -2,7 +2,7 @@
 title: "Une conf’ Product pas comme les autres"
 date: 2020-09-24T18:59:04+02:00
 draft: true
-tags: ["conférence","product", "product ownership"]
+tags: ["conférence","product"]
 ---
 
 # School of Product Ownership — Outdoor Edition 2020

@@ -3,7 +3,7 @@ title: "Recherche d'excellence et excellence"
 date: 2021-07-04T10:45:04+02:00
 draft: false
 author : Nils
-tags: ["recherche d excellence", "stade toulousain"]
+tags: ["rugby", "management", "coaching"]
 ---
 
 

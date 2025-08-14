@@ -4,7 +4,7 @@ date: 2023-03-28T08:12:04+02:00
 draft: false
 featured_image: '/images/FormationSchoolOfProduct.svg'
 author :  Nils
-tags: ["formation", "product", "product ownership"]
+tags: ["formation", "product", "facilitation"]
 ---
 
 

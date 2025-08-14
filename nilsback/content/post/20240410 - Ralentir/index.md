@@ -4,7 +4,7 @@ date: 2024-04-10T10:08:04+02:00
 draft: false
 featured_image: '/images/Ralentir.avif'
 author : Nils
-tags: ["conversations", "management"]
+tags: ["conversations", "management", "société", "organisation"]
 ---
 
 **Ralentir**.

@@ -4,7 +4,7 @@ date: 2024-02-02T10:08:04+02:00
 draft: false
 --featured_image: '/images/Jungle.avif'
 author :  Nils
-tags: ["management", "apprentissage", "rugby"]
+tags: ["management", "formation", "rugby"]
 ---
 
 Si vous savez lire entre les lignes ou si vous me connaissez, vous savez qu'en plus d'être un coach qui traîne dans les Directions Produit ou Informatique, je suis un amoureux du rugby.

@@ -2,7 +2,7 @@
 title: "Impact Mapping"
 date: 2020-12-28T15:59:04+02:00
 draft: false
-tags: ["impact mapping", "stratégie", "atelier"]
+tags: ["impact mapping", "product", "atelier"]
 ---
 
 Le mois dernier, sur le slack de benext, une coach se demandait comment elle devait animer un atelier impact mapping. Après quelques échanges, elle a trouvé des réponses. Les échanges que nous avons eus, sont les mêmes que ceux entendus à un becom, journée de partage pour tous les benexters, où <a href="http://pablopernot.fr/" target="_blank">Pablo</a> avait animé une session d'une heure sur le sujet. Merci à <a href="https://www.linkedin.com/in/laurence-wolff-524a261b/" target="_blank">Laurence</a> d'avoir noté ce jour-là la plupart des propos. Et évidemment merci à eux pour les échanges, leurs retours d’expérience sur l’animation de cet atelier.

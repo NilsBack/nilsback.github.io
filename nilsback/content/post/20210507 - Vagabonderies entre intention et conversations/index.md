@@ -3,7 +3,7 @@ title: "Vagabonderies entre intention et conversations"
 date: 2021-05-21T10:30:04+02:00
 draft: false
 author : Nils
-tags: ["intention", "fenêtre de johari", "conversations", "conversations cruciales", "turn the ship around"]
+tags: ["intention", "fenêtre de johari", "conversations", "livres"]
 ---
 
 

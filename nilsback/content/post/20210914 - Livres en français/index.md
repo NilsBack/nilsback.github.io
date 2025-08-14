@@ -4,7 +4,7 @@ date: 2021-09-14T17:10:04+02:00
 draft: false
 author : Nils
 featured_image: '/images/LivresEnFrancais.jpeg'
-tags: ["livres", "francophonie"]
+tags: ["livres", "agile", "management", "product"]
 ---
 
 Je découvre, en ce moment, que plein de "classiques" de l'agile ont été traduits et publiés en français. J'appelle "classique" des livres dont j'entends régulièrement parler dans la communauté agile francophone ou anglophone.

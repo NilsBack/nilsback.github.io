@@ -3,7 +3,7 @@ title: "Les grilles de lecture 1/7 : Intro"
 date: 2022-01-11T14:30:04+02:00
 draft: false
 author : Alice Novazzi, Emeline Boulet, Gabrielle Le Bihan & Nils
-tags: ["grille de lecture", "modèle"]
+tags: ["grille de lecture", "modèle", "Cynefin", "Process Communication Model", "Agile Fluency"]
 ---
 
 Avec un collectif de coachs, product owners, scrum masters, nous nous lançons dans l’écriture d’une série d'articles sur ce que nous appellerons “les grilles de lecture”. Des grilles de lecture, des modèles, que nous utilisons dans nos accompagnements et qui permettent de lire, de décrypter, d'analyser des situations.

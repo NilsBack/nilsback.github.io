@@ -4,7 +4,7 @@ date: 2022-01-11T14:35:04+02:00
 draft: false
 featured_image: '/images/Cynefin_Desordre.jpg'
 author : Emeline Boulet & Nils
-tags: ["grille de lecture", "modèle", "cynefin"]
+tags: ["grille de lecture", "modèle", "Cynefin", "management", "coaching"]
 ---
 
 *Note : Cet article fait partie d'une série d'articles sur les grilles de lectures ou modèles. Vous pouvez retrouver l'article d'introduction de cette série [ici](https://www.nilslesieur.fr/2022/01/les-grilles-de-lecture-1/7-intro/).*

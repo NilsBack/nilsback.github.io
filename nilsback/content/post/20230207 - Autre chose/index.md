@@ -4,7 +4,7 @@ date: 2023-02-07T22:12:04+02:00
 draft: false
 featured_image: '/images/mur.jpeg'
 author :  Nils
-tags: ["cynefin", "émergence", "management", "mcgregor"]
+tags: ["cynefin", "émergence", "management"]
 ---
 
 J'ai été élevé en France et vis donc avec des réflexes, des clichés qui m'ont été inculqués tout au long de ma scolarité puis en entreprise. Grandir en France c'est aussi grandir en découvrant l'administration française. Peut-être que certain·e·s d'entre vous en partageront avec moi.

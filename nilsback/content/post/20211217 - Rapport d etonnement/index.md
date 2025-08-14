@@ -3,7 +3,7 @@ title: "Début de coaching : entre clarification et rapport d'étonnement"
 date: 2021-12-20T11:21:04+02:00
 draft: false
 author : Nils
-tags: ["rapport","coaching", "accompagnement"]
+tags: ["coaching", "intention", "organisation"]
 ---
 
 

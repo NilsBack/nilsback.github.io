@@ -4,7 +4,7 @@ date: 2023-08-17T10:08:04+02:00
 draft: false
 featured_image: '/images/Rafting_By_JackalopeWest.jpg'
 author :  Nils
-tags: ["équipe", "team"]
+tags: ["équipe", "management", "rugby", "organisation"]
 ---
 
 J'ai toujours été attiré par la notion d'équipe, par la magie qui se dégage d'une belle équipe. Peut-être ma pratique du foot tout jeune, puis du volley, du hand, ou enfin du rugby, peut-être mes années d'études, ...   

@@ -4,7 +4,7 @@ date: 2024-11-15T10:08:04+02:00
 featured_image: '/images/Girafe.avif'
 draft: false
 author : Nils
-tags: ["conversations", "conversations cruciales"]
+tags: ["conversations", "mentoring", "livres"]
 ---
 
 

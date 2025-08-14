@@ -4,7 +4,7 @@ date: 2024-03-15T10:08:04+02:00
 draft: false
 featured_image: '/images/MatriceEGOECO_Organisation.jpg'
 author : Nils
-tags: ["sociodynamique", "grille de lecture", "modèle"]
+tags: ["sociodynamique", "grille de lecture", "modèle", "facilitation"]
 ---
 
 Lors de la formation intitulée Organisations souhaitables et animée par l'Institut des futurs souhaitables que j’ai mentionnée dans mon précédent post sur la différence entre pensée de groupe et [l’intelligence collective](https://www.nilslesieur.fr/2024/02/lintelligence-collective-cest-pas-automatique/), j’ai également découvert la notion de sociodynamique et notamment la matrice EGO / ECO.

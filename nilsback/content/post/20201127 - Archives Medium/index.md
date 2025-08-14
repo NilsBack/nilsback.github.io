@@ -2,7 +2,7 @@
 title: "Archives Medium"
 date: 2020-11-27T14:59:04+02:00
 draft: false
-tags: ["archives", "school of po", "agile fluency", "backlog", "formation"]
+tags: ["conférence", "agile fluency", "product", "formation"]
 ---
 
 # Mes publications Medium

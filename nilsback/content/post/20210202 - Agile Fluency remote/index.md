@@ -4,7 +4,7 @@ date: 2021-03-01T15:48:04+02:00
 draft: false
 author : Nils
 featured_image: '/images/ModeleAgileFluency.png'
-tags: ["agile fluency", "atelier", "télétravail"]
+tags: ["agile fluency", "atelier", "équipe", "facilitation"]
 ---
 
 On m'a demandé, en fin d'année, d'animer un atelier sur le modèle Agile Fluency avec des équipes travaillant à distance. Il y a quelques temps, j'avais écrit un [post](https://medium.com/benextcompany/agile-fluency-en-mode-workshop-c36a37b52f92) où j'avais détaillé l'animation, en présentiel. Un autre temps :)

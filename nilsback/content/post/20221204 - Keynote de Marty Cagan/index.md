@@ -4,7 +4,7 @@ date: 2023-02-01T10:45:04+02:00
 featured_image: '/images/Keynote_MartyCagan_2022.png'
 draft: false
 author : Nils
-tags: ["school of product", "product", "keynote", "conférence", "product ownership"]
+tags: ["product", "conférence", "coaching"]
 ---
 
 

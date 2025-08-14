@@ -3,7 +3,7 @@ title: "Les grilles de lecture 4/7 - Process Communication Model"
 date: 2022-02-25T14:01:04+02:00
 draft: false
 author : Alice Novazzi & Nils
-tags: ["grille de lecture", "modèle", "PCM", "Process Communication Model"]
+tags: ["modèle", "Process Communication Model", "management", "coaching"]
 ---
 
 *Note : Cet article fait partie d'une série d'articles sur les grilles de lectures ou modèles. Vous pouvez retrouver l'article d'introduction de cette série [ici](../introduction-aux-grilles-de-lecture/).*

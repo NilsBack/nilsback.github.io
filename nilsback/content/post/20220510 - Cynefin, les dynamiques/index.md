@@ -4,7 +4,7 @@ date: 2022-05-10T13:48:04+02:00
 featured_image: '/images/NouvellesDynamiques.png'
 draft: false
 author : Emeline Boulet & Nils
-tags: ["grille de lecture", "modèle", "cynefin"]
+tags: ["modèle", "cynefin", "équipe", "management", "coaching"]
 ---
 
 Ce nouveau post sur [Cynefin](https://www.nilslesieur.fr/tags/cynefin/) est une “traduction” des travaux de Dave Snowden, pas une traduction stricto sensu, nous nous sommes souvent détachés du texte original.  

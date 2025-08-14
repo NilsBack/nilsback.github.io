@@ -4,7 +4,7 @@ date: 2025-06-17T10:45:04+02:00
 draft: false
 author : Nils
 toc: true
-tags: ["Coaching", "Accompagnement", "management", "émotions", "rugby"]
+tags: ["Coaching", "management", "émotions", "rugby"]
 ---
 
 

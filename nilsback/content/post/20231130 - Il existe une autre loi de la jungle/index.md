@@ -4,7 +4,7 @@ date: 2023-11-30T10:08:04+02:00
 draft: false
 featured_image: '/images/Jungle.avif'
 author :  Nils
-tags: ["management", "entraide", "communauté", "émergence", "habitabilité du monde"]
+tags: ["management", "communauté", "organisation", "habitabilité du monde", "société"]
 ---
 
 

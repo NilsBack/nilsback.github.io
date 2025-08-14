@@ -4,7 +4,7 @@ date: 2025-02-17T10:45:04+02:00
 featured_image: '/images/mouAIs.jpg'
 draft: false
 author : Nils
-tags: ["IA", "Intelligence artificielle"]
+tags: ["Intelligence artificielle", "société"]
 ---
 
 L’IA, l’AI, plus je lis des actualités sur le sujet, plus je me dis "mouAIs".

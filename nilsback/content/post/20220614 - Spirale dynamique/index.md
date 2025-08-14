@@ -4,7 +4,7 @@ date: 2022-07-06T10:45:04+02:00
 featured_image: '/images/li-zhang-Spiral-unsplash.jpg'
 draft: false
 author : Nils
-tags: ["grille de lecture", "modèle", "spirale dynamique"]
+tags: ["grille de lecture", "modèle", "spirale dynamique", "équipe", "organisation"]
 ---
 
 # La spirale dynamique

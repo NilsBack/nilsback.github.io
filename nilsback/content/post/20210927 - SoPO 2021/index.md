@@ -4,7 +4,7 @@ date: 2021-09-30T14:47:04+02:00
 draft: false
 author : Nils
 featured_image: '/images/SchoolOfProduct.png'
-tags: ["conférence","product", "product ownership"]
+tags: ["conférence","product", "livres"]
 ---
 
 # Hall d'embarquement

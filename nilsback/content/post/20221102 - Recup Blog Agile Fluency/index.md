@@ -3,7 +3,7 @@ title: "L'ebook Agile Fluency en Français"
 date: 2022-11-08T11:11:04+02:00
 draft: false
 author : Nils
-tags: ["agile fluency"]
+tags: ["agile fluency", "équipe", "livres"]
 ---
 
 Ma boîte mail, le 2 nov 2022 :  

@@ -2,7 +2,7 @@
 title: "Discussion de groupe et de Groupe en famille"
 date: 2020-07-23T18:59:04+02:00
 draft: true
-tags: ["équipe","leadership"]
+tags: ["équipe","leadership", "management", "conversations"]
 ---
 
 ![Un peu de douceur](début.jpeg)

@@ -4,7 +4,7 @@ date: 2025-04-01T10:45:04+02:00
 draft: false
 author : Nils
 toc: true
-tags: ["Coaching", "Accompagnement", "management", "émergence"]
+tags: ["Coaching", "management", "émergence", "organisation"]
 ---
 
 Je me lance dans l'écriture de cet article et je me dis : j'aimerais que cet article aide celles et ceux qui le liront à créer du vide, pour elles et eux, pour leur quotidien, pour leur entreprise et à comprendre les bénéfices.

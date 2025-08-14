@@ -4,7 +4,7 @@ date: 2023-10-19T10:08:04+02:00
 draft: false
 featured_image: '/images/Outils.avif'
 author :  Nils
-tags: ["management"]
+tags: ["management", "facilitation", "atelier"]
 ---
 
 

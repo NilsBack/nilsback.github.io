@@ -4,7 +4,7 @@ date: 2022-05-17T11:55:04+02:00
 featured_image: '/images/AgileFluency.png'
 draft: false
 author : Thomas Di Murro, Marion Lecerf & Nils
-tags: ["grille de lecture", "modèle", "agile fluency"]
+tags: ["grille de lecture", "modèle", "agile fluency", "équipe", "organisation"]
 ---
 
 Ce post est le transcript du Podcast Good Morning Product sur le modèle Agile Fluency et la maturité Produit. Podcast disponible sur [Spotify](https://open.spotify.com/episode/3L2c3B0R0t5ibnBMECSN5E?si=8PWzAEvLQ326Z7wH0ZgPOA), [Deezer](https://deezer.page.link/tmEi5HbXsVB5gKmQ8) et [Apple Podcast](https://podcasts.apple.com/fr/podcast/good-morning-product-5-agile-fluency-et-maturit%C3%A9-produit/id1608547353?i=1000561632943).

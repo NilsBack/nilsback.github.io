@@ -4,7 +4,7 @@ date: 2023-04-25T10:08:04+02:00
 draft: false
 featured_image: '/images/RepurposedAppleiMacCatBed.jpg'
 author :  Nils
-tags: ["habitabilité du monde", "climat", "décroissance"]
+tags: ["habitabilité du monde", "climat", "décroissance", "société"]
 ---
 
 Cela fait un an que je me documente réellement sur le sujet de l'habitabilité de monde, puisque c'est bien de ça qu'il s'agit et pas de sauver la planète. Rassurez-vous la planète survivra, l'humain c'est probable, sans doute pas à 8 ou 10 milliards. Mais à quel niveau de confort ? Dans quelles conditions de justice ? De médecine ? D'accès à l'éducation ? ...

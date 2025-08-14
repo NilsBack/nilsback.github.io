@@ -4,7 +4,7 @@ date: 2022-02-02T16:08:04+02:00
 draft: false
 featured_image: '/images/PyramideDilts.jpg'
 author : Gabrielle Le Bihan & Nils
-tags: ["grille de lecture", "modèle", "pyramide de Dilts", "PNL"]
+tags: ["grille de lecture", "modèle", "pyramide de Dilts", "management", "coaching"]
 ---
 
 *Note : Cet article fait partie d'une série d'articles sur les grilles de lectures ou modèles. Vous pouvez retrouver l'article d'introduction de cette série [ici](../introduction-aux-grilles-de-lecture/).*

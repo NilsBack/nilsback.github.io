@@ -3,7 +3,7 @@ title: "Une histoire de mentoring de groupe"
 date: 2021-01-13T12:04:04+02:00
 draft: false
 featured_image: '/images/Paris_ParcDeBelleville.jpg'
-tags: ["mentoring"]
+tags: ["mentoring", "communauté", "conversations"]
 ---
 
 > "*Essayer encore. Rater encore. Rater mieux.*" S.Beckett
