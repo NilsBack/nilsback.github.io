@@ -56,7 +56,7 @@ On m'a rapporté une anecdote dont on ne sait me donner l'autrice ou l'auteur (s
 
 Je laisse la question en suspens.
 
-# On conclue ?
+# On conclut ?
 
 ChatGPT a 3 ans. Le monde de l'IT découvre les possibilités de l'IA dans les pratiques de développement de produit, c'est encore balbutiant, dispersé.
 
