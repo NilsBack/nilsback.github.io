@@ -1,6 +1,6 @@
 ---
 title: "Réflexions sur la polyvalence"
-date: 2025-10-20T10:45:04+02:00
+date: 2025-11-10T10:45:04+02:00
 draft: false
 author : Nils
 tags: ["organisation", "robustesse", "équipe"]
