@@ -7,6 +7,9 @@ menu:
 
 # Conférences
 
+**2025** - School of Product - Table ronde [Ralentir](/supports/TableRondeRalentir.pdf) avec David Laizé et Albane Veyron
+
+---
 **2024** - Agile Tour Bordeaux - [Ralentir](/supports/Ralentir.pdf)  
 **2024** - Agile Tour Rennes - [Parcours sociodynamique dans les modèles organisationnels](/supports/Panorama_sociodynamique_des_modeles_organisationnels.pdf)  
 **2024** - Demain c'est maintenant - [Les 8 R, une réflexion sur l'habitabilité du monde](https://miro.com/app/board/uXjVMADTdOk=/?share_link_id=990352826428)
