@@ -7,7 +7,7 @@ menu:
 
 # Conférences
 
-**2025** - School of Product - Table ronde [Ralentir](/supports/TableRondeRalentir.pdf) avec David Laizé et Albane Veyron
+**2025** - School of Product - Table ronde [Ralentir](https://www.youtube.com/watch?v=H_sYH_UhFIw&list=PLQ0F0EgSL-vT3Y4JOXxqlTaoFzP7ZSmYh&index=7) avec David Laizé, Albane Veyron et Laurent Igout à l'animation.
 
 ---
 **2024** - Agile Tour Bordeaux - [Ralentir](/supports/Ralentir.pdf)  
